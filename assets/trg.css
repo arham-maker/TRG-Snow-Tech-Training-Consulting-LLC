@@ -358,6 +358,16 @@ textarea {
   justify-content: flex-end;
   gap: 40px;
 }
+.top-bar__inner > .trg-editable,
+.top-bar__inner > .trg-editable > .trg-editable__fallback {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 40px;
+  width: auto;
+}
 .top-bar__item {
   display: inline-flex;
   flex-direction: row;
@@ -659,6 +669,13 @@ textarea {
   position: relative;
   height: 351px;
 }
+.gallery-teaser__stack.trg-editable,
+.gallery-teaser__stack .trg-editable__fallback {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
 .gallery-teaser__img {
   position: absolute;
   object-fit: cover;
@@ -910,6 +927,14 @@ textarea {
   display: flex;
   align-items: center;
   gap: 20px;
+}
+.site-footer__legal .trg-editable,
+.site-footer__legal .trg-editable__fallback,
+.site-footer__legal-cms {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: auto;
 }
 .site-footer__legal a {
   color: #538DDB;

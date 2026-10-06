@@ -2,7 +2,11 @@
   <div class="site-footer__inner">
     <div class="site-footer__brand">
       <a href="/" class="site-footer__logo" aria-label="{siteTitle}">
-        <img src="/assets/icons/logo-footer.svg" alt="{siteTitle}" width="230" height="41">
+        {.section logoImage}
+          <img src="{assetUrl}?format=300w" alt="{siteTitle}" width="230" height="41">
+        {.or}
+          <img src="/assets/icons/logo-footer.svg" alt="{siteTitle}" width="230" height="41">
+        {.end}
       </a>
       <div class="trg-editable" data-trg-editable>
         <div class="trg-editable__fallback">
@@ -33,10 +37,27 @@
     </nav>
 
     <div class="site-footer__bottom">
-      <p class="site-footer__copy">&copy;2026 TRG Snow Tech Training &amp; Consulting LLC.</p>
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <p class="site-footer__copy">&copy;2026 TRG Snow Tech Training &amp; Consulting LLC.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="footerCopyright" columns="12" label="EDIT: Footer copyright" />
+        </div>
+      </div>
       <nav class="site-footer__legal" aria-label="Legal">
-        <a href="/privacy">Privacy</a>
-        <a href="/terms">Terms</a>
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <a href="/privacy">Privacy</a>
+            <a href="/terms">Terms</a>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="footerLegalEdit" columns="12" label="EDIT: Privacy &amp; Terms links" />
+          </div>
+        </div>
+        <div class="site-footer__legal-cms">
+          <squarespace:navigation navigationId="footerLegal" template="footer-nav" />
+        </div>
       </nav>
     </div>
   </div>

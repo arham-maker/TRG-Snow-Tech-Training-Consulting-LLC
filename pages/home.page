@@ -198,10 +198,15 @@
 
 <section class="section section--pad gallery-teaser" aria-labelledby="gallery-teaser-heading">
   <div class="panel panel--soft gallery-teaser__inner">
-    <div class="gallery-teaser__stack" aria-hidden="true">
-      <img class="gallery-teaser__img gallery-teaser__img--a" src="/assets/images/gallery-1.jpg" alt="">
-      <img class="gallery-teaser__img gallery-teaser__img--b" src="/assets/images/gallery-3.jpg" alt="">
-      <img class="gallery-teaser__img gallery-teaser__img--c" src="/assets/images/gallery-2.jpg" alt="">
+    <div class="gallery-teaser__stack trg-editable trg-editable--media" data-trg-editable aria-hidden="true">
+      <div class="trg-editable__fallback">
+        <img class="gallery-teaser__img gallery-teaser__img--a" src="/assets/images/gallery-1.jpg" alt="">
+        <img class="gallery-teaser__img gallery-teaser__img--b" src="/assets/images/gallery-3.jpg" alt="">
+        <img class="gallery-teaser__img gallery-teaser__img--c" src="/assets/images/gallery-2.jpg" alt="">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="homeGalleryTeaserImages" columns="12" label="EDIT: Gallery teaser images" />
+      </div>
     </div>
     <div class="gallery-teaser__copy">
       <div class="trg-editable" data-trg-editable>
