@@ -31,27 +31,47 @@ body.trg-site .top-bar {
 }
 
 body.trg-site .top-bar__inner,
-body.trg-site .top-bar .trg-editable,
+body.trg-site .top-bar .trg-editable {
+  width: max-content !important;
+  max-width: none !important;
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  display: block !important;
+}
+
 body.trg-site .top-bar .trg-editable__fallback {
-  width: auto !important;
+  width: max-content !important;
   max-width: none !important;
   margin: 0 !important;
   display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
   align-items: center !important;
   justify-content: flex-end !important;
   gap: 40px !important;
 }
 
 body.trg-site .top-bar__item,
+body.trg-site .top-bar a.top-bar__item,
 body.trg-site .top-bar a {
   display: inline-flex !important;
+  flex-direction: row !important;
+  flex: 0 0 auto !important;
   align-items: center !important;
   gap: 10px !important;
+  width: max-content !important;
+  max-width: none !important;
   color: #fff !important;
   font-weight: 500 !important;
   font-size: 16px !important;
   line-height: 24px !important;
   text-decoration: none !important;
+  white-space: nowrap !important;
+}
+
+body.trg-site .top-bar__item span {
+  display: inline !important;
+  white-space: nowrap !important;
 }
 
 /* ----- Header: logo | centered nav | CTA ----- */
@@ -172,8 +192,19 @@ body.trg-site .home-hero__media .trg-editable__fallback img {
   height: 100% !important;
   max-width: none !important;
   object-fit: cover !important;
+  object-position: center center !important;
   display: block !important;
   border-radius: 0 !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  z-index: 0 !important;
+}
+
+body.trg-site .home-hero {
+  background-image: url("/assets/images/hero-home.jpg") !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
 }
 
 body.trg-site .home-hero__overlay {

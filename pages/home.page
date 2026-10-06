@@ -3,7 +3,7 @@
 <section class="home-hero" aria-labelledby="home-hero-heading">
   <div class="home-hero__media trg-editable trg-editable--media" data-trg-editable aria-hidden="true">
     <div class="trg-editable__fallback">
-      <img src="/assets/images/hero-home.png" alt="">
+      <img src="/assets/images/hero-home.jpg" alt="">
     </div>
     <div class="trg-editable__cms">
       <squarespace:block-field id="homeHeroImage" columns="12" label="EDIT: Home hero image" />
