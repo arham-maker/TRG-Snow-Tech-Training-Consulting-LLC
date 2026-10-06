@@ -918,10 +918,24 @@ textarea {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  text-align: left;
 }
 
-.page-hero .body-lg {
+.page-hero .heading-page,
+.page-hero h1.heading-page,
+.page-hero h1 {
+  color: @trg-bg-1 !important;
+  font-size: 56px !important;
+  line-height: 72px !important;
+  font-weight: 600 !important;
+  margin: 0 !important;
+}
+
+.page-hero .body-lg,
+.page-hero p.body-lg {
   max-width: 668px;
+  color: @trg-bg-1 !important;
+  font-weight: 500 !important;
 }
 
 .split-service {

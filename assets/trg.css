@@ -792,9 +792,22 @@ textarea {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  text-align: left;
 }
-.page-hero .body-lg {
+.page-hero .heading-page,
+.page-hero h1.heading-page,
+.page-hero h1 {
+  color: #FFFFFF !important;
+  font-size: 56px !important;
+  line-height: 72px !important;
+  font-weight: 600 !important;
+  margin: 0 !important;
+}
+.page-hero .body-lg,
+.page-hero p.body-lg {
   max-width: 668px;
+  color: #FFFFFF !important;
+  font-weight: 500 !important;
 }
 .split-service {
   display: grid;
