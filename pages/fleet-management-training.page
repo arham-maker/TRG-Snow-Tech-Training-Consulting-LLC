@@ -188,9 +188,9 @@
   <div class="cta-band__inner panel panel--soft">
     <div class="trg-editable" data-trg-editable>
       <div class="trg-editable__fallback">
-        <h2 id="fleet-training-cta-heading" class="heading-lg">Discuss Your Mechanic Training Needs</h2>
+        <h2 id="fleet-training-cta-heading" class="heading-lg">Discuss Your Fleet Consulting Needs</h2>
         <div class="rule" aria-hidden="true"></div>
-        <p class="body-md">Tell Robert Gardner about your equipment, your team’s current skill level, training goals and preferred timing to discuss a quote and scheduling criteria.</p>
+        <p class="body-md">Tell Robert Gardner about your fleet assets, planning questions and preferred timing to discuss consulting support, a quote and scheduling criteria.</p>
         <a class="btn btn--primary" href="/contact">
           Go to Contact Form
           <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">

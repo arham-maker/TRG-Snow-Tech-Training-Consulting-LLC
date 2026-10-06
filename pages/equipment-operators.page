@@ -167,9 +167,9 @@
   <div class="cta-band__inner panel panel--soft">
     <div class="trg-editable" data-trg-editable>
       <div class="trg-editable__fallback">
-        <h2 id="equipment-operators-cta-heading" class="heading-lg">Tell Us What Your Site Needs</h2>
+        <h2 id="equipment-operators-cta-heading" class="heading-lg">Discuss Your Operator Staffing Needs</h2>
         <div class="rule" aria-hidden="true"></div>
-        <p class="body-md">Contact Robert Gardner with your site location, equipment details and snow-removal priorities. Confirm the service scope and availability as part of your inquiry.</p>
+        <p class="body-md">Contact Robert Gardner with your site location, equipment details and operator requirements. Confirm the staffing support and availability as part of your inquiry.</p>
         <a class="btn btn--primary" href="/contact">
           Go to Contact Form
           <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">

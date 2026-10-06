@@ -192,6 +192,28 @@ textarea {
 .section--pad {
   padding: 50px 100px;
 }
+/* Universal text editable stacks — parent flex gap dies on wrapper */
+.trg-editable:not(.trg-editable--media) > .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.section--pad > .trg-editable:not(.trg-editable--media) {
+  display: block;
+  max-width: 1240px;
+  width: 100%;
+  margin: 0 auto 40px;
+  box-sizing: border-box;
+}
+.info-grid > .panel.panel--soft,
+.feature-grid > .panel.panel--soft:not(.feature-card) {
+  padding: 50px;
+  box-sizing: border-box;
+  height: 100%;
+}
 .panel {
   position: relative;
   border-radius: 20px;
