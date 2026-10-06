@@ -1,0 +1,109 @@
+<!-- Terms of Use — legal layout (demo content) -->
+
+<section class="page-hero" aria-labelledby="terms-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="terms-heading" class="heading-page">Terms of Use</h1>
+        <p class="body-lg">Guidelines for using the TRG Snow Tech website and related inquiry tools.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="termsHero" columns="12" label="EDIT: Terms hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="terms-overview-heading">
+  <div class="panel panel--soft legal-doc">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <div class="section-intro">
+          <h2 id="terms-overview-heading" class="heading-lg">Agreement to These Terms</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">By accessing this website, you agree to these demo Terms of Use. If you do not agree, please do not use the site. Replace this content with counsel-approved terms before launch.</p>
+        </div>
+
+        <div class="legal-doc__meta">
+          <p class="body-sm"><strong>Effective date:</strong> October 6, 2026</p>
+          <p class="body-sm"><strong>Last updated:</strong> October 6, 2026</p>
+        </div>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">1. About This Site</h3>
+          <p class="body-md">This website is operated by TRG Snow Tech Training &amp; Consulting LLC for informational purposes related to equipment training, fleet consulting, and related services for airports and municipalities across the USA and Canada.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">2. No Offer Until Confirmed</h3>
+          <p class="body-md">Content on this site describes services in general terms. Submitting a form or requesting a quote does not create a training, consulting, or service agreement. Scope, pricing, scheduling, and deliverables are confirmed only in a separate written discussion or agreement.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">3. Acceptable Use</h3>
+          <p class="body-md">You agree not to misuse the site, attempt unauthorized access, submit false or harmful content through forms, or use site materials in a way that infringes intellectual property or applicable law.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">4. Intellectual Property</h3>
+          <p class="body-md">Text, graphics, logos, and layout on this website are owned by TRG or its licensors. You may view pages for personal or internal business evaluation, but you may not copy, republish, or commercially reuse site materials without prior written permission.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">5. Third-Party Links</h3>
+          <p class="body-md">This site may link to third-party websites. TRG is not responsible for the content, privacy practices, or availability of those sites.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">6. Disclaimer</h3>
+          <p class="body-md">Site content is provided “as is” for general information. While we aim to keep information current, we do not warrant that all content is complete, error-free, or suitable for every organization or equipment environment.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">7. Limitation of Liability</h3>
+          <p class="body-md">Demo language: to the fullest extent permitted by law, TRG is not liable for indirect, incidental, or consequential damages arising from use of this website. Actual limitation language should be reviewed by counsel.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">8. Changes</h3>
+          <p class="body-md">We may update these Terms from time to time. The “Last updated” date above will change when revisions are posted. Continued use of the site after changes means you accept the revised Terms.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">9. Contact</h3>
+          <p class="body-md">Questions about these Terms can be directed to:</p>
+          <ul class="check-list">
+            <li>Robert Gardner</li>
+            <li>TRG Snow Tech Training &amp; Consulting LLC</li>
+            <li>Email: TRGsnowtech1@gmail.com</li>
+            <li>Phone: 717-602-7795</li>
+          </ul>
+        </article>
+
+        <p class="body-sm legal-doc__disclaimer">Demo content only. This page is a design placeholder and is not legal advice.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="termsContent" columns="12" label="EDIT: Terms of Use body" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="terms-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="terms-cta-heading" class="heading-lg">Need Training or Consulting Support?</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Share your equipment, team needs and preferred timing to start a conversation.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="termsCta" columns="12" label="EDIT: Terms CTA" />
+      </div>
+    </div>
+  </div>
+</section>

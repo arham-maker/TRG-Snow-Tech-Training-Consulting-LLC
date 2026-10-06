@@ -1,0 +1,100 @@
+<!-- Privacy Policy — legal layout (demo content) -->
+
+<section class="page-hero" aria-labelledby="privacy-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="privacy-heading" class="heading-page">Privacy Policy</h1>
+        <p class="body-lg">How TRG Snow Tech Training &amp; Consulting LLC handles information shared through this website.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="privacyHero" columns="12" label="EDIT: Privacy hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="privacy-overview-heading">
+  <div class="panel panel--soft legal-doc">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <div class="section-intro">
+          <h2 id="privacy-overview-heading" class="heading-lg">Overview</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">This demo Privacy Policy describes the types of information that may be collected when you visit this website or contact TRG Snow Tech Training &amp; Consulting LLC (“TRG,” “we,” “us,” or “our”), and how that information may be used. Replace this content with counsel-approved language before launch.</p>
+        </div>
+
+        <div class="legal-doc__meta">
+          <p class="body-sm"><strong>Effective date:</strong> October 6, 2026</p>
+          <p class="body-sm"><strong>Last updated:</strong> October 6, 2026</p>
+        </div>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">1. Information We May Collect</h3>
+          <p class="body-md">When you use our contact form or email us, you may provide business contact details such as your name, organization, email address, phone number, service interest, and notes about equipment, training goals, or scheduling.</p>
+          <p class="body-md">We may also receive standard technical data from your browser or hosting platform, such as IP address, device type, pages visited, and referral source, when analytics or similar tools are enabled.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">2. How We Use Information</h3>
+          <p class="body-md">Information submitted through this site is used to respond to inquiries, discuss training or consulting scope, prepare quotes, and schedule conversations. We may also use aggregate site analytics to improve page content and usability.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">3. Sharing of Information</h3>
+          <p class="body-md">We do not sell personal information. Demo content: information may be shared with service providers that help operate the website or email tools, or when required by law. Update this section with your actual vendors and practices.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">4. Cookies &amp; Site Tools</h3>
+          <p class="body-md">This website may use cookies or similar technologies provided by Squarespace or analytics partners to remember preferences and understand site traffic. You can control cookies through your browser settings.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">5. Data Retention</h3>
+          <p class="body-md">Inquiry details are kept for as long as needed to respond to your request and maintain ordinary business records, unless a longer period is required by law or a client agreement.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">6. Your Choices</h3>
+          <p class="body-md">You may request updates to or deletion of contact information you previously submitted, subject to legitimate business or legal retention needs. Contact us using the details below to make a request.</p>
+        </article>
+
+        <article class="legal-doc__section">
+          <h3 class="heading-sm">7. Contact</h3>
+          <p class="body-md">Questions about this Privacy Policy can be directed to:</p>
+          <ul class="check-list">
+            <li>Robert Gardner</li>
+            <li>TRG Snow Tech Training &amp; Consulting LLC</li>
+            <li>Email: TRGsnowtech1@gmail.com</li>
+            <li>Phone: 717-602-7795</li>
+          </ul>
+        </article>
+
+        <p class="body-sm legal-doc__disclaimer">Demo content only. This page is a design placeholder and is not legal advice.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="privacyContent" columns="12" label="EDIT: Privacy policy body" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="privacy-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="privacy-cta-heading" class="heading-lg">Questions About Privacy?</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Reach out and we will point you to the right contact for privacy or website inquiries.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="privacyCta" columns="12" label="EDIT: Privacy CTA" />
+      </div>
+    </div>
+  </div>
+</section>

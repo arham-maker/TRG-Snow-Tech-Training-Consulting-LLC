@@ -1140,6 +1140,48 @@ textarea {
   background: rgba(83, 141, 219, 0.08);
   border-radius: 20px;
 }
+.legal-doc {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 50px;
+  box-sizing: border-box;
+}
+.legal-doc .trg-editable,
+.legal-doc .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+  width: 100%;
+}
+.legal-doc__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  width: 100%;
+}
+.legal-doc__meta .body-sm {
+  margin: 0;
+  color: #656464;
+}
+.legal-doc__section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+}
+.legal-doc__section .heading-sm,
+.legal-doc__section .body-md,
+.legal-doc__section .check-list {
+  margin: 0;
+  width: 100%;
+}
+.legal-doc__disclaimer {
+  margin: 0;
+  color: #656464;
+  font-style: italic;
+}
 /* ========== Motion ========== */
 .home-hero__content,
 .training-strip__grid,

@@ -32,6 +32,8 @@ Architecture follows the Alton Chocolates 7.0 pattern: coded visual fallbacks + 
 | `about.page` | `/about` | *No dedicated frame* — composed from Home mission + Who We Serve | — |
 | `gallery.page` | `/gallery` | *No dedicated frame* — composed from Home gallery section | — |
 | `contact.page` | `/contact` | *No dedicated frame* — composed from Home quote form | — |
+| `privacy.page` | `/privacy` | *No dedicated frame* — legal layout + demo privacy copy | — |
+| `terms.page` | `/terms` | *No dedicated frame* — legal layout + demo terms copy | — |
 
 ## Template structure
 
