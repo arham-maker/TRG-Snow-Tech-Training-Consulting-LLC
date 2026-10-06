@@ -1,13 +1,15 @@
 <div class="top-bar" role="region" aria-label="Contact bar">
-  <div class="top-bar__inner">
-    <a class="top-bar__item" href="tel:7176027795">
-      <img src="/assets/icons/phone.svg" alt="" width="24" height="24">
-      <span>Call us at 717-602-7795</span>
-    </a>
-    <a class="top-bar__item" href="mailto:TRGsnowtech1@gmail.com">
-      <img src="/assets/icons/mail.svg" alt="" width="24" height="24">
-      <span>TRGsnowtech1@gmail.com</span>
-    </a>
+  <div class="top-bar__panel">
+    <div class="top-bar__inner">
+      <a class="top-bar__item" href="tel:7176027795">
+        <img src="/assets/icons/phone.svg" alt="" width="24" height="24">
+        <span>Call us at 717-602-7795</span>
+      </a>
+      <a class="top-bar__item" href="mailto:TRGsnowtech1@gmail.com">
+        <img src="/assets/icons/mail.svg" alt="" width="24" height="24">
+        <span>TRGsnowtech1@gmail.com</span>
+      </a>
+    </div>
   </div>
 </div>
 

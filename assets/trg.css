@@ -267,38 +267,62 @@ textarea {
   flex-shrink: 0;
 }
 /* ========== Top bar + header ========== */
+/* Figma Frame 162804 — black bar + diagonal navy contact panel */
 .top-bar {
-  background: #242B3C;
+  background: #000000;
   min-height: 59.5px;
+  height: 59.5px;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-end;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+}
+.top-bar__panel {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  padding: 0 100px;
+  background: #242b3c;
+  /* Diagonal left edge matching Figma */
+  clip-path: polygon(56px 0, 100% 0, 100% 100%, 0 100%);
+  -webkit-clip-path: polygon(56px 0, 100% 0, 100% 100%, 0 100%);
+  padding: 0 50px 0 90px;
+  min-height: 59.5px;
+  box-sizing: border-box;
 }
 .top-bar__inner {
-  width: 100%;
-  max-width: 1240px;
-  margin: 0 0 0 auto;
+  width: max-content;
+  max-width: 100%;
+  margin: 0;
   display: flex;
-  justify-content: flex-end;
-}
-.top-bar .trg-editable__fallback {
-  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
   align-items: center;
+  justify-content: flex-end;
   gap: 40px;
 }
 .top-bar__item {
   display: inline-flex;
+  flex-direction: row;
+  flex: 0 0 auto;
   align-items: center;
   gap: 10px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.top-bar__item span {
+  white-space: nowrap;
 }
 .top-bar__item img {
   width: 24px;
   height: 24px;
+  flex-shrink: 0;
+  display: block;
 }
 .site-header {
   background: #FFFFFF;
@@ -988,9 +1012,8 @@ textarea {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .top-bar {
-    padding-left: 40px;
-    padding-right: 40px;
+  .top-bar__panel {
+    padding: 0 40px 0 72px;
   }
   .training-strip__grid,
   .mission-split__grid,
@@ -1039,10 +1062,18 @@ textarea {
   .site-header__toggle {
     display: flex;
   }
-  .top-bar .trg-editable__fallback {
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 8px;
+  .top-bar {
+    height: auto;
+    min-height: 59.5px;
+  }
+  .top-bar__panel {
+    padding: 12px 16px 12px 48px;
+    height: auto;
+    clip-path: polygon(28px 0, 100% 0, 100% 100%, 0 100%);
+  }
+  .top-bar__inner {
+    flex-wrap: wrap;
+    gap: 12px 24px;
   }
   .training-strip__cards,
   .split-service__meta,
