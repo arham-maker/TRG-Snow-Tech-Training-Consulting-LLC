@@ -882,8 +882,9 @@ textarea {
   gap: 50px;
 }
 .site-footer__logo img {
-  width: 230px;
+  width: 154px;
   height: auto;
+  display: block;
 }
 .site-footer__tagline {
   margin: 0;

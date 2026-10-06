@@ -3,9 +3,9 @@
     <div class="site-footer__brand">
       <a href="/" class="site-footer__logo" aria-label="{siteTitle}">
         {.section logoImage}
-          <img src="{assetUrl}?format=300w" alt="{siteTitle}" width="230" height="41">
+          <img src="{assetUrl}?format=300w" alt="{siteTitle}">
         {.or}
-          <img src="/assets/icons/logo-footer.svg" alt="{siteTitle}" width="230" height="41">
+          <img src="/assets/images/logo.png" alt="{siteTitle}" width="154" height="71">
         {.end}
       </a>
       <div class="trg-editable" data-trg-editable>
