@@ -269,7 +269,7 @@ textarea {
 /* ========== Top bar + header ========== */
 /* Figma Frame 162804 — black bar + diagonal navy contact panel */
 .top-bar {
-  background: #000000;
+  background: #ffffff;
   min-height: 59.5px;
   height: 59.5px;
   display: flex;
