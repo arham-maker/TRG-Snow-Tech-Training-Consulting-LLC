@@ -411,14 +411,17 @@ textarea {
 }
 
 .top-bar__inner > .trg-editable,
-.top-bar__inner > .trg-editable > .trg-editable__fallback {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 40px;
-  width: auto;
+.top-bar__inner > .trg-editable > .trg-editable__fallback,
+.top-bar .trg-editable,
+.top-bar .trg-editable > .trg-editable__fallback {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  gap: 40px !important;
+  width: auto !important;
+  max-width: 100% !important;
 }
 
 .top-bar__item {
