@@ -488,8 +488,16 @@ body.trg-site .site-footer__nav-cms a {
   color: #f3f2f0 !important;
 }
 
+body.trg-site .site-footer__legal {
+  display: flex !important;
+  align-items: center !important;
+  gap: 20px !important;
+}
+
 body.trg-site .site-footer__legal a {
   color: #538ddb !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px !important;
 }
 
 /* ----- Editable stack spacing (parent gap lost when wrapped) ----- */

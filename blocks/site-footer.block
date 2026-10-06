@@ -34,18 +34,10 @@
 
     <div class="site-footer__bottom">
       <p class="site-footer__copy">&copy;2026 TRG Snow Tech Training &amp; Consulting LLC.</p>
-      <div class="site-footer__legal">
-        <div class="trg-editable" data-trg-editable>
-          <div class="trg-editable__fallback">
-            <a href="/privacy">Privacy</a>
-            <a href="/terms">Terms</a>
-          </div>
-          <div class="trg-editable__cms">
-            <squarespace:block-field id="footerLegalEdit" columns="12" label="EDIT: Privacy &amp; Terms" />
-          </div>
-        </div>
-        <squarespace:navigation navigationId="footerLegal" template="footer-nav" />
-      </div>
+      <nav class="site-footer__legal" aria-label="Legal">
+        <a href="/privacy">Privacy</a>
+        <a href="/terms">Terms</a>
+      </nav>
     </div>
   </div>
 </footer>
