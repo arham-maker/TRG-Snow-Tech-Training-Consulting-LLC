@@ -233,6 +233,28 @@ textarea {
   background: @trg-bg-2-50;
 }
 
+.section--pad > .panel.panel--soft {
+  padding: 50px;
+  max-width: @trg-content;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.panel--soft > .trg-editable,
+.panel--soft > .trg-editable > .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+}
+
+.panel--soft > .trg-editable > .trg-editable__fallback > .info-grid,
+.panel--soft > .trg-editable > .trg-editable__fallback > .feature-grid {
+  margin-top: 20px;
+  width: 100%;
+}
+
 .panel--image-card {
   min-height: 565px;
 }
@@ -1199,6 +1221,7 @@ textarea {
   padding: 30px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   gap: 16px;
 }
 
