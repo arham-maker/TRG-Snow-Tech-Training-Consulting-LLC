@@ -30,7 +30,7 @@
           <h2 id="our-services-intro-heading" class="heading-lg">Find the Support Your Operation Needs</h2>
           <div class="rule" aria-hidden="true"></div>
           <p class="body-md">TRG serves airports and municipalities. Explore the service areas below, then share your requirements to discuss scope, suitability and availability.</p>
-          <p class="serve-note body-sm">Airports &nbsp;•&nbsp; Municipalities &nbsp;•&nbsp; USA &amp; Canada</p>
+          <p class="link-cta link-cta--static">Airports &nbsp;•&nbsp; Municipalities &nbsp;•&nbsp; USA &amp; Canada</p>
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="ourServicesIntro" columns="12" label="EDIT: Our Services intro copy" />
