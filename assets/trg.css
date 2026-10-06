@@ -477,7 +477,7 @@ textarea {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 28px;
+  gap: 32px;
   width: 100%;
 }
 .home-hero .heading-hero,
@@ -494,7 +494,7 @@ textarea {
   margin: 0 !important;
 }
 .home-hero .btn-row {
-  margin-top: 4px;
+  margin-top: 0;
 }
 .home-hero__sub {
   max-width: 720px;
@@ -514,6 +514,16 @@ textarea {
   flex-direction: column;
   justify-content: space-between;
   gap: 40px;
+}
+.training-strip__main .trg-editable,
+.training-strip__main .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 40px;
+  width: 100%;
+  height: 100%;
+  flex: 1 1 auto;
 }
 .training-strip__cards {
   display: grid;
@@ -551,6 +561,13 @@ textarea {
   gap: 67px;
   min-height: 399px;
 }
+.mission-split__content .trg-editable,
+.mission-split__content .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  gap: 67px;
+  width: 100%;
+}
 .mission-split__sub {
   display: flex;
   flex-direction: column;
@@ -571,6 +588,13 @@ textarea {
   justify-content: flex-end;
   gap: 20px;
   background: linear-gradient(-34.83deg, rgba(255, 160, 0, 0.1) 42%, rgba(255, 250, 236, 0.1) 77%);
+}
+.panel--serve-intro .trg-editable,
+.panel--serve-intro .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
 }
 .serve-strip__deco {
   position: absolute;
@@ -625,6 +649,21 @@ textarea {
   flex-direction: column;
   gap: 20px;
 }
+.gallery-teaser__copy .trg-editable,
+.gallery-teaser__copy .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
+}
+.panel__body .trg-editable,
+.panel__body .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
 /* ========== Contact form ========== */
 .contact-band {
   padding: 50px 100px 80px;
@@ -645,6 +684,13 @@ textarea {
   flex-direction: column;
   justify-content: center;
   gap: 30px;
+}
+.contact-band__info .trg-editable,
+.contact-band__info .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
 }
 .contact-band__person {
   display: flex;
@@ -866,6 +912,14 @@ textarea {
   flex-direction: column;
   gap: 20px;
   text-align: left;
+}
+.page-hero__inner .trg-editable,
+.page-hero__inner .trg-editable__fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  width: 100%;
 }
 .page-hero .heading-page,
 .page-hero h1.heading-page,
