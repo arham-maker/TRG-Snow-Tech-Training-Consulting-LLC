@@ -8,8 +8,8 @@
     <div class="trg-editable__cms">
       <squarespace:block-field id="homeHeroImage" columns="12" label="EDIT: Home hero image" />
     </div>
-    <div class="home-hero__overlay"></div>
   </div>
+  <div class="home-hero__overlay" aria-hidden="true"></div>
   <div class="home-hero__content">
     <div class="trg-editable" data-trg-editable>
       <div class="trg-editable__fallback">

@@ -4,7 +4,7 @@
   <div class="page-hero__inner">
     <div class="trg-editable" data-trg-editable>
       <div class="trg-editable__fallback">
-        <h1 id="gallery-heading" class="heading-page">Training &amp;<br>Equipment Gallery</h1>
+        <h1 id="gallery-heading" class="heading-page">Training &amp;<br> Equipment Gallery</h1>
         <p class="body-lg">A space for TRG’s training, equipment and fleet project photos.</p>
       </div>
       <div class="trg-editable__cms">

@@ -1,6 +1,16 @@
 (function () {
   "use strict";
 
+  var NAV_LABELS = {
+    "/": "Home",
+    "/about": "About",
+    "/our-services": "Our Services",
+    "/training-consulting": "Training & Consulting",
+    "/gallery": "Gallery",
+    "/contact": "Contact Us",
+    "/contact-us": "Contact Us",
+  };
+
   function initNav() {
     var header = document.querySelector("[data-site-header]");
     var toggle = document.querySelector("[data-nav-toggle]");
@@ -17,6 +27,7 @@
     var path = window.location.pathname.replace(/\/$/, "") || "/";
     document.querySelectorAll(".site-nav a").forEach(function (link) {
       var href = (link.getAttribute("href") || "").replace(/\/$/, "") || "/";
+      if (NAV_LABELS[href]) link.textContent = NAV_LABELS[href];
       if (href === path) link.classList.add("is-active");
     });
   }
