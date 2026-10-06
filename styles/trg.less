@@ -318,10 +318,24 @@ textarea {
   align-items: stretch;
   justify-content: flex-end;
   padding: 0;
-  overflow: hidden;
+  overflow: visible;
   width: 100%;
-  border-top: 2px solid #242b3c;
+  position: relative;
   box-sizing: border-box;
+  border-top: none;
+}
+
+/* Full-width 2px line across left white + right panel (Figma top edge) */
+.top-bar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: #242b3c;
+  z-index: 5;
+  pointer-events: none;
 }
 
 .top-bar__panel {
