@@ -1,0 +1,173 @@
+<!-- Mechanic & Technician Training — Figma 619:2 -->
+
+<section class="page-hero" aria-labelledby="mechanic-training-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="mechanic-training-heading" class="heading-page">Mechanic &amp; Technician Training</h1>
+        <p class="body-lg">In-person skill development for the mechanics who maintain airport and municipal snow removal equipment.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="mechanicTechnicianTrainingHero" columns="12" label="EDIT: Mechanic &amp; Technician Training hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="mechanic-skills-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Mechanic training">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="mechanicTechnicianTrainingIntroImage" columns="12" label="EDIT: Mechanic training intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="mechanic-skills-heading" class="heading-lg">From Entry-Level Skills to Advanced Diagnostics</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Help new and semi-skilled tradespeople develop their maintenance skills and progress toward advanced diagnostics on mobile equipment. TRG provides mechanic and technician training for organizations that maintain airport snow removal equipment and municipal snow removal vehicles.</p>
+          <a class="link-cta" href="/contact">
+            Discuss mechanic training
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="mechanicTechnicianTrainingIntro" columns="12" label="EDIT: From Entry-Level Skills intro" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="mechanic-focus-heading">
+  <div class="info-grid">
+    <div class="panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="mechanic-focus-heading" class="heading-lg">Training Focus</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Entry-Level Maintenance</h3>
+            <p class="body-sm">Build foundational maintenance skills for mobile equipment mechanics and technicians.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Advanced Diagnostics</h3>
+            <p class="body-sm">Develop skills toward more advanced diagnostic work.</p>
+          </article>
+          <p class="body-md">Discuss your team’s current skills and equipment to define the training scope.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="mechanicTechnicianTrainingFocus" columns="12" label="EDIT: Training Focus" />
+        </div>
+      </div>
+    </div>
+    <div class="panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 class="heading-lg">Who This Training Is For</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <ul class="check-list">
+            <li>New and semi-skilled tradespeople</li>
+            <li>Mobile equipment mechanics and technicians</li>
+            <li>Airport equipment maintenance teams</li>
+            <li>Municipal equipment maintenance teams</li>
+          </ul>
+          <p class="body-md">For employers seeking a training outlet to improve the skills of their personnel.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="mechanicTechnicianTrainingAudience" columns="12" label="EDIT: Who This Training Is For" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="mechanic-orgs-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="mechanic-orgs-heading" class="heading-lg">Equipment &amp; Organizations</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="mechanicTechnicianTrainingOrgs" columns="12" label="EDIT: Equipment &amp; Organizations" />
+        </div>
+      </div>
+    </div>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport maintenance">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="mechanicTechnicianTrainingAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal maintenance">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="mechanicTechnicianTrainingMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="mechanic-locations-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="mechanic-locations-heading" class="heading-lg">In-Person Training Locations</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <div class="info-grid">
+          <article class="info-card">
+            <h3 class="heading-sm">At Your Facility</h3>
+            <p class="body-sm">Classes held at the client’s location.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">At a Planned Regional Location</h3>
+            <p class="body-sm">Classes held at a planned regional venue.</p>
+          </article>
+        </div>
+        <p class="link-cta link-cta--static">Serving North America • USA &amp; Canada</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="mechanicTechnicianTrainingLocations" columns="12" label="EDIT: In-Person Training Locations" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="mechanic-training-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="mechanic-training-cta-heading" class="heading-lg">Discuss Your Mechanic Training Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Tell Robert Gardner about your equipment, your team’s current skill level, training goals and preferred timing to discuss a quote and scheduling criteria.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="mechanicTechnicianTrainingCta" columns="12" label="EDIT: Mechanic training CTA" />
+      </div>
+    </div>
+  </div>
+</section>

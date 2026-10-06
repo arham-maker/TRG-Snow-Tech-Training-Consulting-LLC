@@ -1,0 +1,51 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <a href="/" class="site-footer__logo" aria-label="{siteTitle}">
+        <img src="/assets/icons/logo-footer.svg" alt="{siteTitle}" width="230" height="41">
+      </a>
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <p class="site-footer__tagline">Equipment training and fleet consulting for airports and municipalities.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="footerTagline" columns="12" label="EDIT: Footer tagline" />
+        </div>
+      </div>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Footer">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <a href="/about">About</a>
+          <a href="/our-services">Our Services</a>
+          <a href="/training-consulting">Training &amp; Consulting</a>
+          <a href="/gallery">Gallery</a>
+          <a href="/contact">Contact</a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="footerNavEdit" columns="12" label="EDIT: Footer navigation links" />
+        </div>
+      </div>
+      <div class="site-footer__nav-cms">
+        <squarespace:navigation navigationId="footerNav" template="footer-nav" />
+      </div>
+    </nav>
+
+    <div class="site-footer__bottom">
+      <p class="site-footer__copy">&copy;2026 TRG Snow Tech Training &amp; Consulting LLC.</p>
+      <div class="site-footer__legal">
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <a href="/privacy">Privacy</a>
+            <a href="/terms">Terms</a>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="footerLegalEdit" columns="12" label="EDIT: Privacy &amp; Terms" />
+          </div>
+        </div>
+        <squarespace:navigation navigationId="footerLegal" template="footer-nav" />
+      </div>
+    </div>
+  </div>
+</footer>

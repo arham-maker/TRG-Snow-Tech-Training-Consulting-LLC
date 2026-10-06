@@ -1,0 +1,93 @@
+/* Dual-editable CMS slots — hide fallback when real SQS blocks exist */
+
+.trg-editable {
+  position: relative;
+  width: 100%;
+}
+
+.trg-editable__cms {
+  width: 100%;
+}
+
+.trg-editable:has(.trg-editable__cms .sqs-block) .trg-editable__fallback,
+.trg-editable.has-cms .trg-editable__fallback {
+  display: none !important;
+}
+
+.trg-editable:not(:has(.trg-editable__cms .sqs-block)):not(.has-cms) .trg-editable__cms {
+  min-height: 0;
+}
+
+.trg-editable__cms .sqs-block {
+  margin: 0 0 12px !important;
+}
+
+.trg-editable .sqs-block-html h1,
+.trg-editable h1 {
+  font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: clamp(36px, 5vw, 64px) !important;
+  line-height: 1.15 !important;
+  color: inherit !important;
+  margin: 0 0 16px !important;
+}
+
+.trg-editable .sqs-block-html h2,
+.trg-editable h2 {
+  font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: clamp(28px, 3.5vw, 40px) !important;
+  line-height: 1.2 !important;
+  color: #242B3C !important;
+  margin: 0 0 16px !important;
+}
+
+.trg-editable .sqs-block-html h3,
+.trg-editable h3 {
+  font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 24px !important;
+  line-height: 32px !important;
+  color: #242B3C !important;
+  margin: 0 0 12px !important;
+}
+
+.trg-editable .sqs-block-html p,
+.trg-editable p {
+  font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 18px !important;
+  line-height: 24px !important;
+  color: #656464 !important;
+  margin: 0 0 12px !important;
+}
+
+.trg-editable .sqs-block-button .sqs-block-button-element,
+.trg-editable a.sqs-block-button-element {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 10px !important;
+  padding: 10px 30px !important;
+  border-radius: 6px !important;
+  background: #538DDB !important;
+  color: #fff !important;
+  font-family: "DM Sans", "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  letter-spacing: 0.16px !important;
+  border: 0 !important;
+  text-decoration: none !important;
+}
+
+.trg-editable--media .sqs-block-image,
+.trg-editable--media .sqs-block-image img,
+.trg-editable--media .thumb-image {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+[data-sqs-form-slot].has-cms .trg-editable__fallback,
+.contact-band__form-wrap.has-cms .trg-editable__fallback {
+  display: none !important;
+}

@@ -1,0 +1,211 @@
+<!-- Equipment Evaluation & Repair — Figma 630:608 -->
+
+<section class="page-hero" aria-labelledby="equipment-eval-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="equipment-eval-heading" class="heading-page">Equipment Evaluation &amp; Repair</h1>
+        <p class="body-lg">Discuss equipment condition, repair concerns and the decisions ahead.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentEvaluationRepairHero" columns="12" label="EDIT: Equipment Evaluation &amp; Repair hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="equipment-eval-intro-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Equipment evaluation">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentEvaluationRepairIntroImage" columns="12" label="EDIT: Equipment evaluation intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="equipment-eval-intro-heading" class="heading-lg">Understand Your Equipment. Define the Next Step.</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Equipment concerns can affect both immediate operating needs and longer-term fleet decisions. Start with the asset involved, the issue you are seeing and the outcome your organization needs. Discuss equipment evaluation and repair requirements with TRG. Share available service records and operating information so the scope, suitability and availability of support can be confirmed.</p>
+          <a class="link-cta" href="/contact">
+            Discuss Your Equipment
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentEvaluationRepairIntro" columns="12" label="EDIT: Understand Your Equipment intro" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="equipment-conversation-heading">
+  <div class="trg-editable" data-trg-editable>
+    <div class="trg-editable__fallback">
+      <h2 id="equipment-conversation-heading" class="heading-lg">Two Needs. One Equipment Conversation.</h2>
+      <div class="rule" aria-hidden="true"></div>
+    </div>
+    <div class="trg-editable__cms">
+      <squarespace:block-field id="equipmentEvaluationRepairSectionHeading" columns="12" label="EDIT: Two Needs section heading" />
+    </div>
+  </div>
+
+  <div class="split-service">
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h3 class="heading-md">Equipment Evaluation</h3>
+          <p class="body-md">Evaluation begins with understanding the vehicle or equipment asset and the decision it needs to support. Discuss its use, available condition information and the concerns your team has identified.</p>
+          <h4 class="heading-sm">Useful Context</h4>
+          <ul class="check-list">
+            <li>Equipment type and current role</li>
+            <li>Known issues and available records</li>
+            <li>Replacement or budget questions</li>
+          </ul>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentEvaluationRepairEval" columns="12" label="EDIT: Equipment Evaluation block" />
+        </div>
+      </div>
+    </div>
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/fleet-consulting.jpg" alt="Equipment evaluation">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentEvaluationRepairEvalImage" columns="12" label="EDIT: Equipment Evaluation image" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="repair-requirements-heading">
+  <div class="split-service split-service--flip">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/airport.jpg" alt="Repair requirements">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentEvaluationRepairRepairImage" columns="12" label="EDIT: Repair Requirements image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="repair-requirements-heading" class="heading-lg">Repair Requirements</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Describe the fault, symptom or damage requiring attention, along with any previous work. Repair requirements should be discussed for the specific equipment before scope and arrangements are agreed.</p>
+          <h3 class="heading-sm">Useful Context</h3>
+          <ul class="check-list">
+            <li>Symptoms and operating impact</li>
+            <li>Previous repairs or assessments</li>
+            <li>Location and timing requirements</li>
+          </ul>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentEvaluationRepairRepair" columns="12" label="EDIT: Repair Requirements block" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="equipment-eval-share-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="equipment-eval-share-heading" class="heading-lg">Share the Information That Matters</h2>
+        <p class="body-md">A focused inquiry helps clarify what your equipment needs and how support may fit your operation.</p>
+        <div class="rule" aria-hidden="true"></div>
+        <div class="info-grid">
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Identify the Asset</h3>
+            <p class="body-sm">Provide the equipment type, make or model where available, and its role within your operation.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Describe the Concern</h3>
+            <p class="body-sm">Explain what your team has observed, when the issue occurs and how it affects equipment use.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">03</span>
+            <h3 class="heading-sm">Add the Background</h3>
+            <p class="body-sm">Include available maintenance history, previous repairs, assessments or other relevant records.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">04</span>
+            <h3 class="heading-sm">Clarify the Priority</h3>
+            <p class="body-sm">Share your location, timing and whether the inquiry relates to repair needs, replacement planning or budgeting.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentEvaluationRepairShare" columns="12" label="EDIT: Share the Information That Matters" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="equipment-eval-serve-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="equipment-eval-serve-heading" class="heading-lg">For Airport and Municipal Operations</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">TRG serves airports of any size and municipalities, with expertise in airport snow removal equipment and municipal snow removal vehicles.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentEvaluationRepairServeIntro" columns="12" label="EDIT: For Airport and Municipal Operations" />
+        </div>
+      </div>
+    </div>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport equipment">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentEvaluationRepairAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal equipment">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentEvaluationRepairMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="equipment-eval-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="equipment-eval-cta-heading" class="heading-lg">Tell Us What Your Site Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Contact Robert Gardner with your site location, equipment details and snow-removal priorities. Confirm the service scope and availability as part of your inquiry.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentEvaluationRepairCta" columns="12" label="EDIT: Equipment Evaluation &amp; Repair CTA" />
+      </div>
+    </div>
+  </div>
+</section>

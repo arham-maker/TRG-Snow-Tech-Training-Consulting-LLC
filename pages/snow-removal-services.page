@@ -1,0 +1,179 @@
+<!-- Snow Removal Services — Figma 629:103 -->
+
+<section class="page-hero" aria-labelledby="snow-removal-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="snow-removal-heading" class="heading-page">Snow Removal Services</h1>
+        <p class="body-lg">Discuss your snow-removal needs, equipment and operational priorities.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalServicesHero" columns="12" label="EDIT: Snow Removal Services hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="snow-removal-plan-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/airport.jpg" alt="Snow removal operations">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalServicesIntroImage" columns="12" label="EDIT: Snow removal intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="snow-removal-plan-heading" class="heading-lg">Plan Around Your Winter Operations</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Snow-removal needs vary with the site, the equipment available and the team responsible for winter operations. Start by outlining your operating areas and the challenges your organization needs to address. TRG works with airports and municipalities. Share your snow-removal requirements to discuss an appropriate service scope and how it connects with your equipment and personnel needs.</p>
+          <div class="split-service__cols">
+            <div>
+              <h3 class="heading-sm">Your Operation at a Glance</h3>
+              <ul class="check-list">
+                <li>Site &amp; location</li>
+                <li>Areas requiring attention</li>
+                <li>Current equipment</li>
+                <li>Timing &amp; priorities</li>
+              </ul>
+              <a class="link-cta" href="/contact">
+                Discuss Your Requirements
+                <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalServicesIntro" columns="12" label="EDIT: Plan Around Your Winter Operations" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="snow-removal-scope-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="snow-removal-scope-heading" class="heading-lg">Define the Scope for Your Site</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <div class="info-grid">
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Operating Areas</h3>
+            <p class="body-sm">Identify the locations involved and the areas that matter most to your operation. Describe the site layout, access considerations and priorities that should guide the discussion.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Equipment &amp; Resources</h3>
+            <p class="body-sm">Outline the snow-removal vehicles and equipment currently available, along with the personnel involved. Highlight equipment concerns or resource gaps that may affect the scope of support.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">03</span>
+            <h3 class="heading-sm">Operational Priorities</h3>
+            <p class="body-sm">Explain the challenges you want to address and the timing of your requirements. These details help establish what support is needed and which related services may be relevant.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalServicesScope" columns="12" label="EDIT: Define the Scope for Your Site" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="snow-removal-serve-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="snow-removal-serve-heading" class="heading-lg">For Airport and Municipal Operations</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">TRG serves airports of any size and municipalities, with expertise in airport snow removal equipment and municipal snow removal vehicles.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalServicesServeIntro" columns="12" label="EDIT: For Airport and Municipal Operations intro" />
+        </div>
+      </div>
+    </div>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport snow removal">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalServicesAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal snow removal">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalServicesMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="snow-removal-connected-heading">
+  <div class="split-service split-service--flip">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Connected services">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalServicesConnectedImage" columns="12" label="EDIT: Connected services image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="snow-removal-connected-heading" class="heading-lg">Connected Services</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <div class="info-grid">
+            <article class="info-card">
+              <h3 class="heading-sm">Equipment Evaluation &amp; Repair</h3>
+              <p class="body-sm">Discuss equipment concerns alongside your snow-removal requirements.</p>
+            </article>
+            <article class="info-card">
+              <h3 class="heading-sm">Equipment Operators</h3>
+              <p class="body-sm">Explore personnel needs connected with equipment use.</p>
+            </article>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalServicesConnected" columns="12" label="EDIT: Connected Services" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="snow-removal-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="snow-removal-cta-heading" class="heading-lg">Tell Us What Your Site Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Contact Robert Gardner with your site location, equipment details and snow-removal priorities. Confirm the service scope and availability as part of your inquiry.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalServicesCta" columns="12" label="EDIT: Snow Removal Services CTA" />
+      </div>
+    </div>
+  </div>
+</section>

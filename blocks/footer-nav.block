@@ -1,0 +1,8 @@
+{.repeated section items}
+  {.section collection}
+    <a href="{fullUrl}">{title}</a>
+  {.end}
+  {.section externalLink}
+    <a href="{externalLink}">{title}</a>
+  {.end}
+{.end}

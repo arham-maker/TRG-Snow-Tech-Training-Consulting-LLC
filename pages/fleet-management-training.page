@@ -1,0 +1,204 @@
+<!-- Fleet Management Training & Consulting — Figma 619:588 -->
+
+<section class="page-hero" aria-labelledby="fleet-training-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="fleet-training-heading" class="heading-page">Fleet Management &amp; Consulting</h1>
+        <p class="body-lg">Experienced staff extension for equipment evaluation, replacement planning and fleet department support.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementTrainingHero" columns="12" label="EDIT: Fleet Management &amp; Consulting hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-training-intro-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/fleet-consulting.jpg" alt="Fleet management consulting">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementTrainingIntroImage" columns="12" label="EDIT: Fleet consulting intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="fleet-training-intro-heading" class="heading-lg">Experienced Support for Your Fleet Department</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">When your organization does not have staff in place—or available—to evaluate vehicles and equipment, TRG provides experienced fleet management consulting as an extension of your team. The service supports asset evaluation, replacement planning and budgeting, alongside utilization, equipment specifications and total cost of ownership analysis. The focus is on helping your company plan and operate its fleet department.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementTrainingIntro" columns="12" label="EDIT: Experienced Support intro" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-training-support-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="fleet-training-support-heading" class="heading-lg">Where TRG Can Support Your Fleet</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Consulting can address the following areas. Discuss your assets and planning needs to define the scope of support.</p>
+        <div class="info-grid">
+          <article class="info-card">
+            <h3 class="heading-sm">Equipment Evaluations</h3>
+            <p class="body-sm">Evaluate vehicle and equipment assets to support replacement and budget planning. Share the assets you need reviewed and the decisions your organization is preparing to make.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Replacement Planning</h3>
+            <p class="body-sm">Support planning for vehicle and equipment replacement. Discuss your existing fleet, replacement priorities and planning timeframe.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Fleet Utilization</h3>
+            <p class="body-sm">Consider how vehicles and equipment are used within your fleet. Discuss utilization questions alongside your organization’s operating needs.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Equipment Specifications</h3>
+            <p class="body-sm">Support consideration of vehicle and equipment specifications. Share your equipment needs and the specification questions requiring experienced input.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Total Cost of Ownership</h3>
+            <p class="body-sm">Analyze ownership costs as part of fleet planning. Discuss available cost information and the ownership questions relevant to your equipment decisions.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Planning &amp; Budgeting</h3>
+            <p class="body-sm">Assist with fleet department planning and replacement budgeting. Discuss upcoming decisions and where additional vehicle management support is needed.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementTrainingSupport" columns="12" label="EDIT: Where TRG Can Support Your Fleet" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-capacity-heading">
+  <div class="split-service split-service--flip">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Staff extension support">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementTrainingCapacityImage" columns="12" label="EDIT: Staff Extension image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="fleet-capacity-heading" class="heading-lg">Staff Extension When Capacity Is Limited</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Consulting can address the following areas. Discuss your assets and planning needs to define the scope of support.</p>
+          <div class="info-grid">
+            <article class="info-card">
+              <h3 class="heading-sm">Additional Expertise</h3>
+              <p class="body-sm">For organizations that need experienced input to evaluate vehicle and equipment assets.</p>
+            </article>
+            <article class="info-card">
+              <h3 class="heading-sm">Support for Your Team</h3>
+              <p class="body-sm">For fleet departments that need additional capacity for replacement planning, budgeting and vehicle management.</p>
+            </article>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementTrainingCapacity" columns="12" label="EDIT: Staff Extension When Capacity Is Limited" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="fleet-training-orgs-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="fleet-training-orgs-heading" class="heading-lg">Built Around Your Organization’s Fleet</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">TRG serves airports of any size and municipalities, with expertise in airport snow removal equipment and municipal snow removal vehicles.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementTrainingOrgs" columns="12" label="EDIT: Built Around Your Organization’s Fleet" />
+        </div>
+      </div>
+    </div>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport fleet">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementTrainingAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal fleet">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementTrainingMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-priorities-start-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="fleet-priorities-start-heading" class="heading-lg">Start with Your Fleet Priorities</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <div class="info-grid">
+          <article class="info-card">
+            <h3 class="heading-sm">Assets &amp; Equipment</h3>
+            <p class="body-sm">Which vehicles or equipment need attention?</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Planning Questions</h3>
+            <p class="body-sm">What replacement, utilization, specification or ownership-cost decisions are you considering?</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Capacity &amp; Timing</h3>
+            <p class="body-sm">Where does your team need support, and when are decisions due?</p>
+          </article>
+        </div>
+        <p class="body-md">These details help begin a discussion about scope and a quote.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementTrainingPriorities" columns="12" label="EDIT: Start with Your Fleet Priorities" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="fleet-training-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="fleet-training-cta-heading" class="heading-lg">Discuss Your Mechanic Training Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Tell Robert Gardner about your equipment, your team’s current skill level, training goals and preferred timing to discuss a quote and scheduling criteria.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementTrainingCta" columns="12" label="EDIT: Fleet management training CTA" />
+      </div>
+    </div>
+  </div>
+</section>

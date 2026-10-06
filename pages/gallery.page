@@ -1,0 +1,64 @@
+<!-- Gallery — Training & Equipment Gallery -->
+
+<section class="page-hero" aria-labelledby="gallery-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="gallery-heading" class="heading-page">Training &amp;<br>Equipment Gallery</h1>
+        <p class="body-lg">A space for TRG’s training, equipment and fleet project photos.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="galleryHero" columns="12" label="EDIT: Gallery hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad gallery-grid" aria-label="Photo gallery">
+  <div class="trg-editable trg-editable--media" data-trg-editable>
+    <div class="trg-editable__fallback">
+      <div class="gallery-grid__inner">
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/gallery-1.jpg" alt="TRG training photo 1">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/gallery-2.jpg" alt="TRG training photo 2">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/gallery-3.jpg" alt="TRG training photo 3">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/mission.jpg" alt="Technician working on equipment">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/airport.jpg" alt="Airport snow removal">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/municipality.jpg" alt="Municipal snow removal">
+        </figure>
+      </div>
+    </div>
+    <div class="trg-editable__cms">
+      <squarespace:block-field id="galleryGrid" columns="12" label="EDIT: Gallery grid (Gallery Block)" />
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="gallery-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="gallery-cta-heading" class="heading-lg">Discuss Your Training or Consulting Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Tell us about your equipment, team skills and preferred timing.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="galleryCta" columns="12" label="EDIT: Gallery CTA band" />
+      </div>
+    </div>
+  </div>
+</section>

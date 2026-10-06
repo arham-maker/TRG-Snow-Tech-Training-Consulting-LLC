@@ -1,0 +1,100 @@
+<!-- Contact — Figma contact form inline -->
+
+<section class="page-hero" aria-labelledby="contact-page-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="contact-page-heading" class="heading-page">Contact Us</h1>
+        <p class="body-lg">Tell us about your organization, equipment and preferred timing. We’ll discuss training options, consulting needs and scheduling criteria.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="contactPageHero" columns="12" label="EDIT: Contact page hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="contact-band" id="contact-form" aria-labelledby="contact-page-form-heading">
+  <div class="contact-band__inner">
+    <div class="contact-band__info">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="contact-page-form-heading" class="heading-lg">Your Training &amp;<br>Fleet Needs</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Tell us about your organization, equipment and preferred timing. We’ll discuss training options, consulting needs and scheduling criteria.</p>
+          <div class="contact-band__person">
+            <p>Robert Gardner</p>
+            <p><a href="tel:7176027795">717-602-7795</a></p>
+            <p><a href="mailto:TRGsnowtech1@gmail.com">TRGsnowtech1@gmail.com</a></p>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="contactPageInfo" columns="12" label="EDIT: Contact intro &amp; person details" />
+        </div>
+      </div>
+    </div>
+
+    <div class="contact-band__form-wrap" data-sqs-form-slot>
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <form class="quote-form" action="mailto:TRGsnowtech1@gmail.com" method="post" enctype="text/plain" data-quote-form>
+            <div class="quote-form__row">
+              <label class="quote-form__field">
+                <span>Name</span>
+                <input type="text" name="name" placeholder="Enter Your Name ..." required>
+              </label>
+              <label class="quote-form__field">
+                <span>Organization</span>
+                <input type="text" name="organization" placeholder="Enter Your Organization ...">
+              </label>
+            </div>
+            <div class="quote-form__row">
+              <label class="quote-form__field">
+                <span>Email</span>
+                <input type="email" name="email" placeholder="Enter Your Email ..." required>
+              </label>
+              <label class="quote-form__field">
+                <span>Phone</span>
+                <input type="tel" name="phone" placeholder="Enter Your Phone ...">
+              </label>
+            </div>
+            <label class="quote-form__field">
+              <span>Service Needed</span>
+              <div class="quote-form__select">
+                <select name="service" required>
+                  <option value="" disabled selected>Select a Service</option>
+                  <option>Mechanic &amp; Technician Training</option>
+                  <option>Snow Removal Operator Training</option>
+                  <option>Fleet Management Consulting</option>
+                  <option>Snow Removal Services</option>
+                  <option>Equipment Evaluation &amp; Repair</option>
+                  <option>Equipment Operators</option>
+                </select>
+                <img src="/assets/icons/chevron-down.svg" alt="" width="20" height="20">
+              </div>
+            </label>
+            <label class="quote-form__field">
+              <span>Equipment, Training Goals &amp; Preferred Timings</span>
+              <textarea name="details" rows="3" placeholder="Tell us about your equipment, training goals &amp; preferred timings ..."></textarea>
+            </label>
+            <label class="quote-form__check">
+              <span class="quote-form__checkbox" aria-hidden="true">
+                <img src="/assets/icons/checkmark.svg" alt="" width="22" height="22">
+              </span>
+              <input type="checkbox" name="updates" value="yes">
+              <span>I agree to receive occasional training and fleet updates by email.</span>
+            </label>
+            <button type="submit" class="btn btn--primary">
+              Request a Quote
+              <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+            </button>
+            <p class="quote-form__status" data-form-status hidden></p>
+          </form>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="contactPageForm" columns="12" label="EDIT: Quote form (Form Block)" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

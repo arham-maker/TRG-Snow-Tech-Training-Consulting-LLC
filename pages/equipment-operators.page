@@ -1,0 +1,183 @@
+<!-- Equipment Operators — Figma 630:867 -->
+
+<section class="page-hero" aria-labelledby="equipment-operators-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="equipment-operators-heading" class="heading-page">Equipment Operators</h1>
+        <p class="body-lg">Discuss operator requirements for your snow-removal vehicles and equipment.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentOperatorsHero" columns="12" label="EDIT: Equipment Operators hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-support-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/airport.jpg" alt="Equipment operators">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentOperatorsIntroImage" columns="12" label="EDIT: Operator support intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="operator-support-heading" class="heading-lg">Define the Operator Support Your Site Needs</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Equipment operator requirements depend on the vehicles involved, the tasks to be carried out and the environment in which they are used. Begin with the needs of your airport or municipal operation. Share your equipment, personnel requirements and operating priorities with TRG to discuss the scope and availability of support. The inquiry should identify the role you need filled and the conditions relevant to that role.</p>
+          <div class="info-grid">
+            <article class="info-card">
+              <h3 class="heading-sm">Equipment &amp; Tasks</h3>
+              <p class="body-sm">Discuss the vehicles or equipment involved and the work to be carried out.</p>
+            </article>
+            <article class="info-card">
+              <h3 class="heading-sm">Site &amp; Operating Areas</h3>
+              <p class="body-sm">Share the operating locations, site access and conditions.</p>
+            </article>
+            <article class="info-card">
+              <h3 class="heading-sm">Personnel &amp; Timing</h3>
+              <p class="body-sm">Outline personnel requirements and anticipated timing.</p>
+            </article>
+          </div>
+          <a class="link-cta" href="/contact">
+            Discuss Operator Requirements
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentOperatorsIntro" columns="12" label="EDIT: Define the Operator Support intro" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-role-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="operator-role-heading" class="heading-lg">Build the Role Around Your Operation</h2>
+        <p class="body-md">A focused inquiry helps clarify what your equipment needs and how support may fit your operation.</p>
+        <div class="rule" aria-hidden="true"></div>
+        <div class="info-grid">
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Equipment to be Operated</h3>
+            <p class="body-sm">Identify the vehicles or equipment involved, including make and model where available. Explain their role in your snow-removal operation and any equipment-specific requirements.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Tasks &amp; Operating Areas</h3>
+            <p class="body-sm">Describe the work to be carried out and the areas involved. Share site access requirements, operating conditions and the responsibilities associated with the role.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">03</span>
+            <h3 class="heading-sm">Team &amp; Responsibilities</h3>
+            <p class="body-sm">Outline how the operator role fits with your current personnel. Identify supervision, communication and coordination requirements that need to be discussed.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">04</span>
+            <h3 class="heading-sm">Timing &amp; Availability</h3>
+            <p class="body-sm">Provide the site location, anticipated dates and any scheduling requirements. Confirm the scope and availability of support as part of your inquiry.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentOperatorsRole" columns="12" label="EDIT: Build the Role Around Your Operation" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="operators-serve-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="operators-serve-heading" class="heading-lg">For Airport and Municipal Operations</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">TRG serves airports of any size and municipalities, with expertise in airport snow removal equipment and municipal snow removal vehicles.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentOperatorsServeIntro" columns="12" label="EDIT: For Airport and Municipal Operations" />
+        </div>
+      </div>
+    </div>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport operators">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentOperatorsAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal operators">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentOperatorsMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operators-training-heading">
+  <div class="split-service split-service--flip">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Operator training">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentOperatorsTrainingImage" columns="12" label="EDIT: Operator training promo image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="operators-training-heading" class="heading-lg">Looking to Develop Your Existing Operators?</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">If your priority is building your team&#39;s skills, explore Snow Removal Operator Training. Training focuses on equipment maintenance, proper use and operation.</p>
+          <a class="link-cta" href="/snow-removal-operator-training">
+            Discuss Operator Requirements
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="equipmentOperatorsTrainingPromo" columns="12" label="EDIT: Looking to Develop Your Existing Operators?" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="equipment-operators-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="equipment-operators-cta-heading" class="heading-lg">Tell Us What Your Site Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Contact Robert Gardner with your site location, equipment details and snow-removal priorities. Confirm the service scope and availability as part of your inquiry.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="equipmentOperatorsCta" columns="12" label="EDIT: Equipment Operators CTA" />
+      </div>
+    </div>
+  </div>
+</section>

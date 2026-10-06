@@ -1,0 +1,170 @@
+<!-- Training & Consulting — Figma 611:1010 -->
+
+<section class="page-hero" aria-labelledby="training-consulting-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="training-consulting-heading" class="heading-page">Training &amp; Consulting</h1>
+        <p class="body-lg">Explore equipment training and fleet support for airports and municipalities across the USA and Canada.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="trainingConsultingHero" columns="12" label="EDIT: Training &amp; Consulting hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="mechanic-training-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Mechanic training">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="trainingConsultingBlock01Image" columns="12" label="EDIT: Mechanic training image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">01</span>
+          <h2 id="mechanic-training-heading" class="heading-lg">Mechanic &amp; Technician Training</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Help new and semi-skilled tradespeople develop their skills, from entry-level maintenance to advanced diagnostics on mobile equipment.</p>
+          <div class="split-service__cols">
+            <div>
+              <h3 class="heading-sm">Training Focus</h3>
+              <ul class="check-list">
+                <li>Entry-level maintenance skills</li>
+                <li>Progression toward advanced diagnostics</li>
+                <li>Airport snow removal equipment</li>
+                <li>Municipal snow removal vehicles</li>
+              </ul>
+            </div>
+            <div>
+              <h3 class="heading-sm">Who It Is For</h3>
+              <p class="body-sm">Mechanics and technicians who maintain mobile snow and ice removal equipment.</p>
+              <a class="link-cta" href="/mechanic-technician-training">
+                Discuss mechanic training
+                <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="trainingConsultingBlock01" columns="12" label="EDIT: Mechanic &amp; Technician Training block" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-training-heading">
+  <div class="split-service split-service--flip">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/airport.jpg" alt="Snow removal operator training">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="trainingConsultingBlock02Image" columns="12" label="EDIT: Operator training image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">02</span>
+          <h2 id="operator-training-heading" class="heading-lg">Snow Removal Operator Training</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">In-person training for the people who operate airport and municipal snow removal equipment.</p>
+          <div class="split-service__cols">
+            <div>
+              <h3 class="heading-sm">Training Focus</h3>
+              <ul class="check-list">
+                <li>Equipment maintenance</li>
+                <li>Proper equipment use</li>
+                <li>Snow removal equipment operation</li>
+              </ul>
+            </div>
+            <div>
+              <h3 class="heading-sm">Who It Is For</h3>
+              <p class="body-sm">Airport and municipal equipment operators who need practical instruction on their vehicles.</p>
+              <a class="link-cta" href="/snow-removal-operator-training">
+                Discuss operator training
+                <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="trainingConsultingBlock02" columns="12" label="EDIT: Snow Removal Operator Training block" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-consulting-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/fleet-consulting.jpg" alt="Fleet management consulting">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="trainingConsultingBlock03Image" columns="12" label="EDIT: Fleet consulting image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">03</span>
+          <h2 id="fleet-consulting-heading" class="heading-lg">Fleet Management Consulting</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Experienced staff extension for organizations that need additional support evaluating equipment assets and planning their fleet.</p>
+          <div class="split-service__cols">
+            <div>
+              <h3 class="heading-sm">Consulting Scope</h3>
+              <ul class="check-list">
+                <li>Replacement planning</li>
+                <li>Equipment evaluations</li>
+                <li>Fleet utilization</li>
+                <li>Equipment specifications</li>
+                <li>Total cost of ownership analysis</li>
+                <li>Planning and budgeting</li>
+              </ul>
+            </div>
+            <div>
+              <h3 class="heading-sm">Who It Is For</h3>
+              <p class="body-sm">Organizations that need experienced vehicle management support for their fleet department.</p>
+              <a class="link-cta" href="/fleet-management-training">
+                Discuss fleet consulting
+                <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="trainingConsultingBlock03" columns="12" label="EDIT: Fleet Management Consulting block" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="training-consulting-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="training-consulting-cta-heading" class="heading-lg">Discuss Your Training or Consulting Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Tell us about your equipment, team skills and preferred timing.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="trainingConsultingCta" columns="12" label="EDIT: Training &amp; Consulting CTA band" />
+      </div>
+    </div>
+  </div>
+</section>

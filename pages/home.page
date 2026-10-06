@@ -1,0 +1,225 @@
+<!-- Home — Figma 611:435 Design 1 - Home -->
+
+<section class="home-hero" aria-labelledby="home-hero-heading">
+  <div class="home-hero__media trg-editable trg-editable--media" data-trg-editable aria-hidden="true">
+    <div class="trg-editable__fallback">
+      <img src="/assets/images/hero-home.png" alt="">
+    </div>
+    <div class="trg-editable__cms">
+      <squarespace:block-field id="homeHeroImage" columns="12" label="EDIT: Home hero image" />
+    </div>
+    <div class="home-hero__overlay"></div>
+  </div>
+  <div class="home-hero__content">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="home-hero-heading" class="heading-hero">
+          Build Your Team’s <span class="text-accent">Skills</span>.<br>
+          Plan Your Fleet’s <span class="text-accent">Future</span>.
+        </h1>
+        <p class="body-lg home-hero__sub">In-person mechanic and operator training, plus fleet management consulting for airports and municipalities across the USA and Canada.</p>
+        <div class="btn-row">
+          <a class="btn btn--outline-light" href="/contact">
+            Request a Quote
+            <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+          </a>
+          <a class="btn btn--primary" href="/our-services">
+            Explore Our Services
+            <img src="/assets/icons/arrow-down-right.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="homeHeroCopy" columns="12" label="EDIT: Home hero — headline, text &amp; buttons" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad training-strip" aria-labelledby="training-strip-heading">
+  <div class="training-strip__grid">
+    <div class="panel panel--soft training-strip__main">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <div class="section-intro">
+            <h2 id="training-strip-heading" class="heading-lg">Training &amp; Consulting</h2>
+            <div class="rule" aria-hidden="true"></div>
+            <p class="body-md">Practical support for your people and your equipment.</p>
+          </div>
+          <div class="training-strip__cards">
+            <article class="text-card">
+              <h3 class="heading-sm">Mechanic &amp; Technician Training</h3>
+              <p class="body-sm">Build skills from entry-level maintenance to advanced diagnostics for mobile equipment mechanics and technicians.</p>
+              <a class="link-cta" href="/mechanic-technician-training">
+                Discuss Your Needs
+                <img src="/assets/icons/forum.svg" alt="" width="20" height="20">
+              </a>
+            </article>
+            <article class="text-card">
+              <h3 class="heading-sm">Snow Removal Operator Training</h3>
+              <p class="body-sm">In-person training on equipment maintenance, proper use and operation of airport and municipal snow removal vehicles.</p>
+              <a class="link-cta" href="/snow-removal-operator-training">
+                Discuss Your Needs
+                <img src="/assets/icons/forum.svg" alt="" width="20" height="20">
+              </a>
+            </article>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeTrainingMain" columns="12" label="EDIT: Training &amp; Consulting left panel" />
+        </div>
+      </div>
+    </div>
+
+    <article class="panel panel--image-card training-strip__side">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/fleet-consulting.jpg" alt="Fleet vehicles">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeFleetImage" columns="12" label="EDIT: Fleet consulting card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+      <div class="panel__body">
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <h3 class="heading-sm">Fleet Management Consulting</h3>
+            <p class="body-sm">Experienced staff extension for replacement planning, equipment evaluations, utilization, specifications and total cost of ownership analysis.</p>
+            <a class="link-cta" href="/fleet-management-training">
+              Discuss Your Needs
+              <img src="/assets/icons/forum.svg" alt="" width="20" height="20">
+            </a>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="homeFleetCopy" columns="12" label="EDIT: Fleet consulting card copy" />
+          </div>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad mission-split" aria-labelledby="mission-heading">
+  <div class="mission-split__grid">
+    <div class="mission-split__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Technician working on equipment">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="homeMissionImage" columns="12" label="EDIT: Mission section image" />
+      </div>
+    </div>
+    <div class="panel panel--soft mission-split__content">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <div class="section-intro">
+            <h2 id="mission-heading" class="heading-lg">Helping Your Team Move Forward</h2>
+            <div class="rule" aria-hidden="true"></div>
+            <p class="body-md">TRG helps businesses develop new and semi-skilled tradespeople and support fleet planning.</p>
+          </div>
+          <div class="mission-split__sub">
+            <h3 class="heading-sm">At Your Location or a Regional Venue</h3>
+            <p class="body-sm">Classes are held in person at your facility or at a planned regional location. Contact Robert Gardner to discuss your team’s skills, equipment and scheduling criteria.</p>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeMissionCopy" columns="12" label="EDIT: Mission section copy" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="serve-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="serve-heading" class="heading-lg">Who We Serve</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.</p>
+          <p class="link-cta link-cta--static">Serving North America • USA &amp; Canada</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeServeIntro" columns="12" label="EDIT: Who We Serve intro" />
+        </div>
+      </div>
+    </div>
+
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+      <div class="panel__body">
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <h3 class="heading-sm">Airports of Every Size</h3>
+            <p class="body-sm">Training for the mechanics and operators who maintain and operate airport snow and ice removal equipment.</p>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="homeAirportCopy" columns="12" label="EDIT: Airports card copy" />
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal snow removal">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+      <div class="panel__body">
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <h3 class="heading-sm">Municipalities</h3>
+            <p class="body-sm">Practical training and fleet planning support for municipal snow and ice removal vehicles.</p>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="homeMuniCopy" columns="12" label="EDIT: Municipalities card copy" />
+          </div>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad gallery-teaser" aria-labelledby="gallery-teaser-heading">
+  <div class="panel panel--soft gallery-teaser__inner">
+    <div class="gallery-teaser__stack" aria-hidden="true">
+      <img class="gallery-teaser__img gallery-teaser__img--a" src="/assets/images/gallery-1.jpg" alt="">
+      <img class="gallery-teaser__img gallery-teaser__img--b" src="/assets/images/gallery-3.jpg" alt="">
+      <img class="gallery-teaser__img gallery-teaser__img--c" src="/assets/images/gallery-2.jpg" alt="">
+    </div>
+    <div class="gallery-teaser__copy">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="gallery-teaser-heading" class="heading-lg">Training &amp;<br>Equipment Gallery</h2>
+          <div class="rule rule--short" aria-hidden="true"></div>
+          <p class="body-md">A space for TRG’s training, equipment and fleet project photos.</p>
+          <a class="link-cta" href="/gallery">
+            View Gallery
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="homeGalleryTeaser" columns="12" label="EDIT: Gallery teaser copy" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{@|apply contact-form.block}

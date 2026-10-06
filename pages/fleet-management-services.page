@@ -1,0 +1,174 @@
+<!-- Fleet Management Services — Figma 630:380 -->
+
+<section class="page-hero" aria-labelledby="fleet-services-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="fleet-services-heading" class="heading-page">Fleet Management</h1>
+        <p class="body-lg">Experienced support for equipment decisions, replacement planning and fleet department priorities.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementServicesHero" columns="12" label="EDIT: Fleet Management Services hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-services-intro-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/fleet-consulting.jpg" alt="Fleet management support">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementServicesIntroImage" columns="12" label="EDIT: Fleet management intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="fleet-services-intro-heading" class="heading-lg">Additional Expertise for Your Fleet Team</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">When your organization does not have the staff in place—or available—to evaluate vehicle and equipment assets, TRG provides experienced fleet management support as an extension of your team. Support can include equipment evaluation, replacement planning, utilization, specifications, total cost of ownership analysis and budgeting. The scope is shaped around the decisions your fleet department needs to make</p>
+          <a class="link-cta" href="/contact">
+            Discuss Your Fleet Needs
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementServicesIntro" columns="12" label="EDIT: Additional Expertise for Your Fleet Team" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-priorities-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="fleet-priorities-heading" class="heading-lg">Your Fleet Priorities</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Bring your assets, planning questions and available information into one focused discussion. Support for organizations across the U.S. and Canada.</p>
+        <div class="info-grid">
+          <article class="info-card">
+            <h3 class="heading-sm">Equipment Evaluations</h3>
+            <p class="body-sm">Review vehicle and equipment assets to support replacement and budget planning. Identify the assets that require attention and the decisions ahead.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Replacement Planning</h3>
+            <p class="body-sm">Consider replacement priorities in relation to your existing fleet and planning timeframe. Discuss upcoming needs and the information available to guide them.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Fleet Utilization</h3>
+            <p class="body-sm">Examine how vehicles and equipment are used across your operation. Explore utilization questions alongside the needs of your airport or municipality.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Equipment Specifications</h3>
+            <p class="body-sm">Discuss specifications for vehicles and equipment in the context of your operating requirements. Identify where experienced input is needed.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Total Cost of Ownership</h3>
+            <p class="body-sm">Review ownership-cost information as part of fleet planning. Bring the cost questions and available records relevant to your equipment decisions.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Planning &amp; Budgeting</h3>
+            <p class="body-sm">Support fleet department planning and replacement budgeting. Define the priorities and resource limitations that should shape the scope of assistance.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementServicesPriorities" columns="12" label="EDIT: Your Fleet Priorities" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-support-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="fleet-support-heading" class="heading-lg">Support That Fits Your Organization</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <div class="info-grid">
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Staff Extension</h3>
+            <p class="body-sm">Additional expertise when internal staff are unavailable or your team needs support evaluating assets and planning decisions.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Airport Fleets</h3>
+            <p class="body-sm">Fleet support for airports of any size, with a focus on snow-removal vehicles and equipment used in airport operations.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">03</span>
+            <h3 class="heading-sm">Municipal Fleets</h3>
+            <p class="body-sm">Support for municipalities evaluating snow-removal equipment, vehicle assets and the priorities of their fleet department.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementServicesSupport" columns="12" label="EDIT: Support That Fits Your Organization" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="fleet-decisions-heading">
+  <div class="split-service split-service--flip">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Fleet planning">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementServicesDecisionsImage" columns="12" label="EDIT: Start with the Decisions Ahead image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="fleet-decisions-heading" class="heading-lg">Start with the Decisions Ahead</h2>
+          <p class="body-md">You do not need a finished replacement plan to begin. Share the assets involved, the questions you are facing and the timing of your decisions.</p>
+          <div class="rule" aria-hidden="true"></div>
+          <div class="info-grid">
+            <article class="info-card">
+              <h3 class="heading-sm">Assets &amp; Records</h3>
+              <p class="body-sm">Vehicle types, equipment details and available fleet information.</p>
+            </article>
+            <article class="info-card">
+              <h3 class="heading-sm">Planning Priorities</h3>
+              <p class="body-sm">Replacement, utilization, specification or ownership-cost questions.</p>
+            </article>
+            <article class="info-card">
+              <h3 class="heading-sm">Capacity &amp; Timing</h3>
+              <p class="body-sm">Where your team needs support and when decisions are required.</p>
+            </article>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="fleetManagementServicesDecisions" columns="12" label="EDIT: Start with the Decisions Ahead" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="fleet-services-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="fleet-services-cta-heading" class="heading-lg">Tell Us What Your Site Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Contact Robert Gardner with your site location, equipment details and snow-removal priorities. Confirm the service scope and availability as part of your inquiry.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="fleetManagementServicesCta" columns="12" label="EDIT: Fleet Management Services CTA" />
+      </div>
+    </div>
+  </div>
+</section>

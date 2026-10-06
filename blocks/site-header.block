@@ -1,0 +1,49 @@
+<div class="top-bar" role="region" aria-label="Contact bar">
+  <div class="top-bar__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <a class="top-bar__item" href="tel:7176027795">
+          <img src="/assets/icons/phone.svg" alt="" width="24" height="24">
+          <span>Call us at 717-602-7795</span>
+        </a>
+        <a class="top-bar__item" href="mailto:TRGsnowtech1@gmail.com">
+          <img src="/assets/icons/mail.svg" alt="" width="24" height="24">
+          <span>TRGsnowtech1@gmail.com</span>
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="topBarContact" columns="12" label="EDIT: Top bar phone &amp; email" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<header class="site-header" data-site-header>
+  <div class="site-header__inner">
+    <a class="site-header__logo" href="/" aria-label="{siteTitle}">
+      {.section logoImage}
+        <img src="{assetUrl}?format=300w" alt="{siteTitle}">
+      {.or}
+        <img src="/assets/images/logo.png" alt="{siteTitle}" width="154" height="71">
+      {.end}
+    </a>
+
+    <div class="site-header__desktop-nav">
+      <squarespace:navigation navigationId="mainNav" template="navigation" />
+    </div>
+
+    <div class="site-header__actions">
+      <a class="btn btn--primary site-header__cta" href="/contact">Request a Quote</a>
+      <button type="button" class="site-header__toggle" data-nav-toggle aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-nav" id="mobile-nav" data-mobile-nav hidden>
+    <squarespace:navigation navigationId="mainNav" template="navigation" />
+    <a class="btn btn--primary mobile-nav__cta" href="/contact">Request a Quote</a>
+  </div>
+</header>

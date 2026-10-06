@@ -1,0 +1,194 @@
+<!-- Snow Removal Operator Training — Figma 619:361 -->
+
+<section class="page-hero" aria-labelledby="operator-training-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="operator-training-heading" class="heading-page">Snow Removal Operator Training</h1>
+        <p class="body-lg">In-person instruction on equipment maintenance, proper use and operation.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalOperatorTrainingHero" columns="12" label="EDIT: Snow Removal Operator Training hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-gen-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/airport.jpg" alt="Operator training">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalOperatorTrainingIntroImage" columns="12" label="EDIT: Operator training intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="operator-gen-heading" class="heading-lg">Developing the Next Generation of Operators</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">As experienced equipment operators retire or leave the industry, employers need a way to develop the skills of the people taking their place. TRG offers an in-person training outlet for organizations building their snow removal teams. The focus is on the equipment operators maintain, use and operate. Training serves airports of any size and municipalities with snow and ice removal vehicles and equipment.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalOperatorTrainingIntro" columns="12" label="EDIT: Developing the Next Generation intro" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-areas-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="operator-areas-heading" class="heading-lg">Three Areas of Operator Training</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Discuss the following areas in relation to your equipment and your team’s current experience.</p>
+        <div class="info-grid">
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Equipment Maintenance</h3>
+            <p class="body-sm">Equipment maintenance is part of TRG’s operator training offering. Discuss the vehicles your team uses and the maintenance knowledge your operators need to develop so the training scope can be defined.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Proper Equipment Use</h3>
+            <p class="body-sm">TRG provides instruction on the proper use of airport and municipal snow removal equipment. Share the equipment your operators work with and where they need further guidance when discussing the training requirements.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">03</span>
+            <h3 class="heading-sm">Equipment Operation</h3>
+            <p class="body-sm">Operator training addresses the use and operation of snow removal vehicles and equipment. Explain your team’s existing experience and training goals to discuss the instruction that fits your organization.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalOperatorTrainingAreas" columns="12" label="EDIT: Three Areas of Operator Training" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="operator-teams-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="operator-teams-heading" class="heading-lg">For Airport &amp; Municipal Teams</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalOperatorTrainingTeams" columns="12" label="EDIT: For Airport &amp; Municipal Teams" />
+        </div>
+      </div>
+    </div>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport operator training">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalOperatorTrainingAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal operator training">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="snowRemovalOperatorTrainingMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-arrangements-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="operator-arrangements-heading" class="heading-lg">In-Person Training Arrangements</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Classes are held at the client’s location or at a planned regional location. Contact Robert Gardner to discuss your location, training needs and scheduling criteria.</p>
+        <div class="info-grid">
+          <article class="info-card">
+            <h3 class="heading-sm">Client-Site Training</h3>
+            <p class="body-sm">Classes held at the client’s location.</p>
+          </article>
+          <article class="info-card">
+            <h3 class="heading-sm">Planned Regional Training</h3>
+            <p class="body-sm">Classes held at a planned regional venue.</p>
+          </article>
+        </div>
+        <p class="link-cta link-cta--static">Serving North America • USA &amp; Canada</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalOperatorTrainingArrangements" columns="12" label="EDIT: In-Person Training Arrangements" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="operator-inquiry-heading">
+  <div class="panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="operator-inquiry-heading" class="heading-lg">What to Share in Your Inquiry</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">A few details will help start a useful discussion about training scope, a quote and scheduling.</p>
+        <div class="info-grid">
+          <article class="info-card">
+            <span class="num-badge">01</span>
+            <h3 class="heading-sm">Your Equipment</h3>
+            <p class="body-sm">The snow removal vehicles or equipment your operators use.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">02</span>
+            <h3 class="heading-sm">Your Team</h3>
+            <p class="body-sm">The operators’ current experience and areas where they need instruction.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">03</span>
+            <h3 class="heading-sm">Your Training Goals</h3>
+            <p class="body-sm">The maintenance, equipment-use or operating skills you want to develop.</p>
+          </article>
+          <article class="info-card">
+            <span class="num-badge">04</span>
+            <h3 class="heading-sm">Your Location &amp; Timing</h3>
+            <p class="body-sm">Your organization’s location and preferred training timeframe.</p>
+          </article>
+        </div>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalOperatorTrainingInquiry" columns="12" label="EDIT: What to Share in Your Inquiry" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="operator-training-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="operator-training-cta-heading" class="heading-lg">Discuss Your Mechanic Training Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Tell Robert Gardner about your equipment, your team’s current skill level, training goals and preferred timing to discuss a quote and scheduling criteria.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="snowRemovalOperatorTrainingCta" columns="12" label="EDIT: Operator training CTA" />
+      </div>
+    </div>
+  </div>
+</section>

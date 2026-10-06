@@ -1,0 +1,175 @@
+<!-- Our Services — Figma 630:1090 -->
+
+<section class="page-hero" aria-labelledby="our-services-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="our-services-heading" class="heading-page">Our Services</h1>
+        <p class="body-lg">Explore support for your equipment, fleet and winter operations.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="ourServicesHero" columns="12" label="EDIT: Our Services hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="our-services-intro-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="TRG services">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="ourServicesIntroImage" columns="12" label="EDIT: Our Services intro image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="our-services-intro-heading" class="heading-lg">Find the Support Your Operation Needs</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">TRG serves airports and municipalities. Explore the service areas below, then share your requirements to discuss scope, suitability and availability.</p>
+          <p class="serve-note body-sm">Airports &nbsp;•&nbsp; Municipalities &nbsp;•&nbsp; USA &amp; Canada</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="ourServicesIntro" columns="12" label="EDIT: Our Services intro copy" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="service-areas-heading">
+  <div class="trg-editable" data-trg-editable>
+    <div class="trg-editable__fallback">
+      <h2 id="service-areas-heading" class="heading-lg">Explore Our Service Areas</h2>
+      <div class="rule" aria-hidden="true"></div>
+    </div>
+    <div class="trg-editable__cms">
+      <squarespace:block-field id="ourServicesAreasHeading" columns="12" label="EDIT: Explore Our Service Areas heading" />
+    </div>
+  </div>
+
+  <div class="feature-grid">
+    <article class="feature-card panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">01</span>
+          <h3 class="heading-md">Snow Removal</h3>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-sm">Discuss snow-removal requirements around your site, available equipment and operating priorities. Outline the areas involved and the support your organization needs.</p>
+          <a class="link-cta" href="/snow-removal-services">
+            Explore Snow Removal
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="ourServicesCard01" columns="12" label="EDIT: Service card 01 — Snow Removal" />
+        </div>
+      </div>
+    </article>
+
+    <article class="feature-card panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">02</span>
+          <h3 class="heading-md">Fleet Management</h3>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-sm">Experienced staff extension for equipment evaluation, replacement planning, utilization, specifications, total cost of ownership and budgeting.</p>
+          <a class="link-cta" href="/fleet-management-services">
+            Explore Fleet Management
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="ourServicesCard02" columns="12" label="EDIT: Service card 02 — Fleet Management" />
+        </div>
+      </div>
+    </article>
+
+    <article class="feature-card panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">03</span>
+          <h3 class="heading-md">Equipment Evaluation &amp; Repair</h3>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-sm">Share equipment condition information, known concerns and repair requirements. Discuss the asset involved and the decisions that need attention.</p>
+          <a class="link-cta" href="/equipment-evaluation-repair">
+            Explore Evaluation &amp; Repair
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="ourServicesCard03" columns="12" label="EDIT: Service card 03 — Equipment Evaluation &amp; Repair" />
+        </div>
+      </div>
+    </article>
+
+    <article class="feature-card panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <span class="num-badge">04</span>
+          <h3 class="heading-md">Equipment Operators</h3>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-sm">Outline operator requirements for your vehicles and equipment, including tasks, site conditions, personnel responsibilities and timing.</p>
+          <a class="link-cta" href="/equipment-operators">
+            Explore Equipment Operators
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="ourServicesCard04" columns="12" label="EDIT: Service card 04 — Equipment Operators" />
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="section section--pad" aria-labelledby="our-services-training-heading">
+  <div class="split-service">
+    <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/fleet-consulting.jpg" alt="Training and consulting">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="ourServicesTrainingImage" columns="12" label="EDIT: Training &amp; Consulting promo image" />
+      </div>
+    </div>
+    <div class="split-service__content panel panel--soft">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="our-services-training-heading" class="heading-lg">Training &amp; Consulting</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Looking to develop your mechanics or operators? Explore our training and consulting pages.</p>
+          <a class="link-cta" href="/training-consulting">
+            Explore Training &amp; Consulting
+            <img src="/assets/icons/arrow-down-right-blue.svg" alt="" width="20" height="20">
+          </a>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="ourServicesTrainingPromo" columns="12" label="EDIT: Training &amp; Consulting promo" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="our-services-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="our-services-cta-heading" class="heading-lg">Tell Us What Your Site Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Contact Robert Gardner with your site location, equipment details and snow-removal priorities. Confirm the service scope and availability as part of your inquiry.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="ourServicesCta" columns="12" label="EDIT: Our Services contact CTA" />
+      </div>
+    </div>
+  </div>
+</section>

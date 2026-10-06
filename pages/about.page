@@ -1,0 +1,130 @@
+<!-- About — composed from Home mission + Who We Serve -->
+
+<section class="page-hero" aria-labelledby="about-heading">
+  <div class="page-hero__inner">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h1 id="about-heading" class="heading-page">About TRG Snow Tech</h1>
+        <p class="body-lg">Equipment training and fleet consulting for airports and municipalities across the USA and Canada.</p>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="aboutHero" columns="12" label="EDIT: About hero" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad mission-split" aria-labelledby="about-mission-heading">
+  <div class="mission-split__grid">
+    <div class="mission-split__media trg-editable trg-editable--media" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <img src="/assets/images/mission.jpg" alt="Technician working on equipment">
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="aboutMissionImage" columns="12" label="EDIT: Mission section image" />
+      </div>
+    </div>
+    <div class="panel panel--soft mission-split__content">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <div class="section-intro">
+            <h2 id="about-mission-heading" class="heading-lg">Helping Your Team Move Forward</h2>
+            <div class="rule" aria-hidden="true"></div>
+            <p class="body-md">TRG helps businesses develop new and semi-skilled tradespeople and support fleet planning.</p>
+          </div>
+          <div class="mission-split__sub">
+            <h3 class="heading-sm">At Your Location or a Regional Venue</h3>
+            <p class="body-sm">Classes are held in person at your facility or at a planned regional location. Contact Robert Gardner to discuss your team’s skills, equipment and scheduling criteria.</p>
+          </div>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="aboutMissionCopy" columns="12" label="EDIT: Mission section copy" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--pad serve-strip" aria-labelledby="about-serve-heading">
+  <div class="serve-strip__grid">
+    <div class="panel panel--serve-intro">
+      <img class="serve-strip__deco" src="/assets/icons/people.svg" alt="" aria-hidden="true">
+      <div class="trg-editable" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <h2 id="about-serve-heading" class="heading-lg">Who We Serve</h2>
+          <div class="rule" aria-hidden="true"></div>
+          <p class="body-md">Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.</p>
+          <p class="link-cta link-cta--static">Serving North America • USA &amp; Canada</p>
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="aboutServeIntro" columns="12" label="EDIT: Who We Serve intro" />
+        </div>
+      </div>
+    </div>
+
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="aboutAirportImage" columns="12" label="EDIT: Airports card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+      <div class="panel__body">
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <h3 class="heading-sm">Airports of Every Size</h3>
+            <p class="body-sm">Training for the mechanics and operators who maintain and operate airport snow and ice removal equipment.</p>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="aboutAirportCopy" columns="12" label="EDIT: Airports card copy" />
+          </div>
+        </div>
+      </div>
+    </article>
+
+    <article class="panel panel--image-card">
+      <div class="trg-editable trg-editable--media" data-trg-editable>
+        <div class="trg-editable__fallback">
+          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal snow removal">
+        </div>
+        <div class="trg-editable__cms">
+          <squarespace:block-field id="aboutMuniImage" columns="12" label="EDIT: Municipalities card image" />
+        </div>
+      </div>
+      <div class="panel__gradient"></div>
+      <div class="panel__body">
+        <div class="trg-editable" data-trg-editable>
+          <div class="trg-editable__fallback">
+            <h3 class="heading-sm">Municipalities</h3>
+            <p class="body-sm">Practical training and fleet planning support for municipal snow and ice removal vehicles.</p>
+          </div>
+          <div class="trg-editable__cms">
+            <squarespace:block-field id="aboutMuniCopy" columns="12" label="EDIT: Municipalities card copy" />
+          </div>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="about-cta-heading">
+  <div class="cta-band__inner panel panel--soft">
+    <div class="trg-editable" data-trg-editable>
+      <div class="trg-editable__fallback">
+        <h2 id="about-cta-heading" class="heading-lg">Discuss Your Training or Consulting Needs</h2>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="body-md">Tell us about your equipment, team skills and preferred timing.</p>
+        <a class="btn btn--primary" href="/contact">
+          Go to Contact Form
+          <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
+        </a>
+      </div>
+      <div class="trg-editable__cms">
+        <squarespace:block-field id="aboutCta" columns="12" label="EDIT: About CTA band" />
+      </div>
+    </div>
+  </div>
+</section>
