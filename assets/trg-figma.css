@@ -39,6 +39,20 @@ body.trg-site .top-bar .trg-editable {
   display: block !important;
 }
 
+/* Empty CMS slot was shrinking the phone link to ~48px */
+body.trg-site .top-bar .trg-editable__cms,
+body.trg-site .top-bar .trg-editable__cms .sqs-layout {
+  display: none !important;
+  width: 0 !important;
+  min-width: 0 !important;
+  max-width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  flex: 0 0 0 !important;
+}
+
 body.trg-site .top-bar .trg-editable__fallback {
   width: max-content !important;
   max-width: none !important;
