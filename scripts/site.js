@@ -88,7 +88,13 @@
     });
   }
 
+  function initHomeClass() {
+    var path = window.location.pathname.replace(/\/$/, "") || "/";
+    if (path === "/") document.body.classList.add("trg-home");
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
+    initHomeClass();
     initNav();
     initEditableSlots();
     initSqsFormSlots();

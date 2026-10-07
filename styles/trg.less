@@ -554,6 +554,85 @@ textarea {
   align-self: flex-start;
 }
 
+/* ========== Homepage: header overlays hero banner ========== */
+body.homepage,
+body.trg-home {
+  .top-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    background: transparent;
+  }
+
+  .top-bar::before {
+    background: rgba(255, 255, 255, 0.35);
+  }
+
+  .top-bar__panel {
+    background: rgba(36, 43, 60, 0.28);
+  }
+
+  .site-header {
+    position: absolute;
+    top: 59.5px;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    background: transparent;
+  }
+
+  .site-nav a {
+    color: #fff;
+  }
+
+  .site-nav a.is-active,
+  .site-nav a:hover {
+    color: #fff;
+    border-bottom-color: #538ddb;
+  }
+
+  .site-header__logo img {
+    filter: brightness(0) invert(1);
+  }
+
+  .site-header__toggle span {
+    background: #fff;
+  }
+
+  .home-hero {
+    min-height: 680px;
+    height: 680px;
+  }
+
+  .site-header.is-open {
+    background: rgba(36, 43, 60, 0.96);
+  }
+
+  .site-header.is-open .mobile-nav {
+    background: transparent;
+  }
+
+  .site-header.is-open .mobile-nav .site-nav a {
+    color: #fff;
+  }
+}
+
+@media (max-width: 900px) {
+  body.homepage,
+  body.trg-home {
+    .site-header {
+      top: 72px;
+    }
+
+    .home-hero {
+      height: auto;
+      min-height: 70vh;
+    }
+  }
+}
+
 /* ========== Home hero ========== */
 .home-hero {
   position: relative;
