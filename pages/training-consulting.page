@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mission.jpg" alt="Mechanic training">
+        <img src="/assets/images/equip-hydraulics.jpg" alt="Mechanic training">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="trainingConsultingBlock01Image" columns="12" label="EDIT: Mechanic training image" />
@@ -63,7 +63,7 @@
   <div class="split-service split-service--flip">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/airport.jpg" alt="Snow removal operator training">
+        <img src="/assets/images/snow-blower-field-1.jpg" alt="Snow removal operator training">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="trainingConsultingBlock02Image" columns="12" label="EDIT: Operator training image" />
@@ -107,7 +107,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/fleet-consulting.jpg" alt="Fleet management consulting">
+        <img src="/assets/images/mb5c-sweeper.jpg" alt="Fleet management consulting">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="trainingConsultingBlock03Image" columns="12" label="EDIT: Fleet consulting image" />

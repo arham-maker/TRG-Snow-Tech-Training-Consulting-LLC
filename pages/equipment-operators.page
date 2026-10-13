@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/airport.jpg" alt="Equipment operators">
+        <img src="/assets/images/snow-blower-field-1.jpg" alt="Equipment operators">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="equipmentOperatorsIntroImage" columns="12" label="EDIT: Operator support intro image" />
@@ -112,7 +112,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport operators">
+          <img class="panel__bg" src="/assets/images/snodozer-hia.jpg" alt="Airport operators">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="equipmentOperatorsAirportImage" columns="12" label="EDIT: Airports card image" />
@@ -123,7 +123,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal operators">
+          <img class="panel__bg" src="/assets/images/plow-public-works.jpg" alt="Municipal operators">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="equipmentOperatorsMuniImage" columns="12" label="EDIT: Municipalities card image" />
@@ -138,7 +138,7 @@
   <div class="split-service split-service--flip">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mission.jpg" alt="Operator training">
+        <img src="/assets/images/snow-blower-field-2.jpg" alt="Operator training">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="equipmentOperatorsTrainingImage" columns="12" label="EDIT: Operator training promo image" />

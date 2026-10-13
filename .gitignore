@@ -3,3 +3,7 @@ node_modules/
 *.log
 npm-debug.log*
 .preview/
+
+# Raw photo drops (use compressed copies in assets/images/)
+assets/images/new images/
+assets/images/wetransfer_*/

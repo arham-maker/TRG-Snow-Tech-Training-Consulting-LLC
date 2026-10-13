@@ -19,22 +19,40 @@
     <div class="trg-editable__fallback">
       <div class="gallery-grid__inner">
         <figure class="gallery-grid__item">
-          <img src="/assets/images/gallery-1.jpg" alt="TRG training photo 1">
+          <img src="/assets/images/snow-blower-hangar-1.jpg" alt="Snow blower in hangar">
         </figure>
         <figure class="gallery-grid__item">
-          <img src="/assets/images/gallery-2.jpg" alt="TRG training photo 2">
+          <img src="/assets/images/runway-broom.jpg" alt="Airport runway broom">
         </figure>
         <figure class="gallery-grid__item">
-          <img src="/assets/images/gallery-3.jpg" alt="TRG training photo 3">
+          <img src="/assets/images/snodozer-hia.jpg" alt="SnoDozer at airport">
         </figure>
         <figure class="gallery-grid__item">
-          <img src="/assets/images/mission.jpg" alt="Technician working on equipment">
+          <img src="/assets/images/snow-blower-hangar-2.jpg" alt="Snow blower equipment in hangar">
         </figure>
         <figure class="gallery-grid__item">
-          <img src="/assets/images/airport.jpg" alt="Airport snow removal">
+          <img src="/assets/images/mb5c-sweeper.jpg" alt="MB5C runway sweeper">
         </figure>
         <figure class="gallery-grid__item">
-          <img src="/assets/images/municipality.jpg" alt="Municipal snow removal">
+          <img src="/assets/images/equip-overaasen.jpg" alt="Overaasen snow removal equipment">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/snow-blower-field-1.jpg" alt="Snow blower in the field">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/snow-blower-field-2.jpg" alt="Snow blower field operations">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/plow-public-works.jpg" alt="Public works plow truck">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/plow-veh-127.jpg" alt="Municipal plow vehicle">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/equip-workshop.jpg" alt="Equipment workshop service">
+        </figure>
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/equip-hydraulics.jpg" alt="Hydraulics and equipment service">
         </figure>
       </div>
     </div>

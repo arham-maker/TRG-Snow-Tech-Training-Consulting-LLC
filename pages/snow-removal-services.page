@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/airport.jpg" alt="Snow removal operations">
+        <img src="/assets/images/runway-broom.jpg" alt="Snow removal operations">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="snowRemovalServicesIntroImage" columns="12" label="EDIT: Snow removal intro image" />
@@ -103,7 +103,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport snow removal">
+          <img class="panel__bg" src="/assets/images/snodozer-hia.jpg" alt="Airport snow removal">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalServicesAirportImage" columns="12" label="EDIT: Airports card image" />
@@ -114,7 +114,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal snow removal">
+          <img class="panel__bg" src="/assets/images/plow-veh-127.jpg" alt="Municipal snow removal">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalServicesMuniImage" columns="12" label="EDIT: Municipalities card image" />
@@ -129,7 +129,7 @@
   <div class="split-service split-service--flip">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mission.jpg" alt="Connected services">
+        <img src="/assets/images/snow-blower-hangar-2.jpg" alt="Connected services">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="snowRemovalServicesConnectedImage" columns="12" label="EDIT: Connected services image" />

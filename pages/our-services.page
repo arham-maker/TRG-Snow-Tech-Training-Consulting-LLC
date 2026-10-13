@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mission.jpg" alt="TRG services">
+        <img src="/assets/images/snow-blower-hangar-2.jpg" alt="TRG services">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="ourServicesIntroImage" columns="12" label="EDIT: Our Services intro image" />
@@ -130,7 +130,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/fleet-consulting.jpg" alt="Training and consulting">
+        <img src="/assets/images/equip-overaasen.jpg" alt="Training and consulting">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="ourServicesTrainingImage" columns="12" label="EDIT: Training &amp; Consulting promo image" />

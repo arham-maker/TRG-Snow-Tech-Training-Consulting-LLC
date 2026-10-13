@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/airport.jpg" alt="Operator training">
+        <img src="/assets/images/snow-blower-field-1.jpg" alt="Operator training">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="snowRemovalOperatorTrainingIntroImage" columns="12" label="EDIT: Operator training intro image" />
@@ -89,7 +89,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport operator training">
+          <img class="panel__bg" src="/assets/images/mb5c-sweeper.jpg" alt="Airport operator training">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalOperatorTrainingAirportImage" columns="12" label="EDIT: Airports card image" />
@@ -100,7 +100,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal operator training">
+          <img class="panel__bg" src="/assets/images/plow-public-works.jpg" alt="Municipal operator training">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalOperatorTrainingMuniImage" columns="12" label="EDIT: Municipalities card image" />

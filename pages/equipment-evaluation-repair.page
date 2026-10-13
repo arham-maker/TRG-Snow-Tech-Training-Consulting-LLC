@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mission.jpg" alt="Equipment evaluation">
+        <img src="/assets/images/equip-hydraulics.jpg" alt="Equipment evaluation">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="equipmentEvaluationRepairIntroImage" columns="12" label="EDIT: Equipment evaluation intro image" />
@@ -74,7 +74,7 @@
     </div>
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/fleet-consulting.jpg" alt="Equipment evaluation">
+        <img src="/assets/images/equip-workshop.jpg" alt="Equipment evaluation">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="equipmentEvaluationRepairEvalImage" columns="12" label="EDIT: Equipment Evaluation image" />
@@ -87,7 +87,7 @@
   <div class="split-service split-service--flip">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/airport.jpg" alt="Repair requirements">
+        <img src="/assets/images/snow-blower-hangar-1.jpg" alt="Repair requirements">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="equipmentEvaluationRepairRepairImage" columns="12" label="EDIT: Repair Requirements image" />
@@ -169,7 +169,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport equipment">
+          <img class="panel__bg" src="/assets/images/runway-broom.jpg" alt="Airport equipment">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="equipmentEvaluationRepairAirportImage" columns="12" label="EDIT: Airports card image" />
@@ -180,7 +180,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal equipment">
+          <img class="panel__bg" src="/assets/images/plow-veh-127.jpg" alt="Municipal equipment">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="equipmentEvaluationRepairMuniImage" columns="12" label="EDIT: Municipalities card image" />

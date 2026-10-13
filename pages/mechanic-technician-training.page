@@ -18,7 +18,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mission.jpg" alt="Mechanic training">
+        <img src="/assets/images/equip-workshop.jpg" alt="Mechanic training">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="mechanicTechnicianTrainingIntroImage" columns="12" label="EDIT: Mechanic training intro image" />
@@ -106,7 +106,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/airport.jpg" alt="Airport maintenance">
+          <img class="panel__bg" src="/assets/images/equip-hydraulics.jpg" alt="Airport maintenance">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="mechanicTechnicianTrainingAirportImage" columns="12" label="EDIT: Airports card image" />
@@ -117,7 +117,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/municipality.jpg" alt="Municipal maintenance">
+          <img class="panel__bg" src="/assets/images/equip-overaasen.jpg" alt="Municipal maintenance">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="mechanicTechnicianTrainingMuniImage" columns="12" label="EDIT: Municipalities card image" />
