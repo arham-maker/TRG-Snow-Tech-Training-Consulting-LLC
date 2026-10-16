@@ -74,7 +74,7 @@
     <article class="panel panel--image-card training-strip__side">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/equip-overaasen.jpg" alt="Fleet vehicles">
+          <img class="panel__bg" src="/assets/images/plow-public-works.jpg" alt="Fleet vehicles">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="homeFleetImage" columns="12" label="EDIT: Fleet consulting card image" />
