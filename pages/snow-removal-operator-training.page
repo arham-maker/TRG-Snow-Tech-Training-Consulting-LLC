@@ -29,7 +29,7 @@
         <div class="trg-editable__fallback">
           <h2 id="operator-gen-heading" class="heading-lg">Developing the Next Generation of Operators</h2>
           <div class="rule" aria-hidden="true"></div>
-          <p class="body-md">As experienced equipment operators retire or leave the industry, employers need a way to develop the skills of the people taking their place. TRG offers an in-person training outlet for organizations building their snow removal teams. The focus is on the equipment operators maintain, use and operate. Training serves airports of any size and municipalities with snow and ice removal vehicles and equipment.</p>
+          <p class="body-md">As experienced equipment operators retire or leave the industry, employers need a way to develop the skills of the people taking their place. TRG offers an in-person training outlet for organizations building their snow removal teams. The focus is on the equipment operators to understand maintenance, use, and operations of specialized snow removal equipment. Training serves airports of any size and municipalities with snow and ice removal vehicles and equipment.</p>
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalOperatorTrainingIntro" columns="12" label="EDIT: Developing the Next Generation intro" />
@@ -180,7 +180,7 @@
       <div class="trg-editable__fallback">
         <h2 id="operator-training-cta-heading" class="heading-lg">Discuss Your Operator Training Needs</h2>
         <div class="rule" aria-hidden="true"></div>
-        <p class="body-md">Tell Robert Gardner about your equipment, your team’s current skill level, training goals and preferred timing to discuss a quote and scheduling criteria.</p>
+        <p class="body-md">Contact our team about your equipment, your team’s current skill level, training goals and preferred timing to discuss a quote and scheduling criteria.</p>
         <a class="btn btn--primary" href="/contact">
           Go to Contact Form
           <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">

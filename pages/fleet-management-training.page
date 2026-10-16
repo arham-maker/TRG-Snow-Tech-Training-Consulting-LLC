@@ -190,7 +190,7 @@
       <div class="trg-editable__fallback">
         <h2 id="fleet-training-cta-heading" class="heading-lg">Discuss Your Fleet Consulting Needs</h2>
         <div class="rule" aria-hidden="true"></div>
-        <p class="body-md">Tell Robert Gardner about your fleet assets, planning questions and preferred timing to discuss consulting support, a quote and scheduling criteria.</p>
+        <p class="body-md">Contact our team about your fleet assets, planning questions and preferred timing to discuss consulting support, a quote and scheduling criteria.</p>
         <a class="btn btn--primary" href="/contact">
           Go to Contact Form
           <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
