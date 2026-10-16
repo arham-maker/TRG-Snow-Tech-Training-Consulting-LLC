@@ -119,7 +119,7 @@
   <div class="split-service split-service--flip">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mb5c-sweeper-framed.jpg" alt="Fleet planning">
+        <img src="/assets/images/mb5c-sweeper.jpg" alt="Fleet planning">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="fleetManagementServicesDecisionsImage" columns="12" label="EDIT: Start with the Decisions Ahead image" />
