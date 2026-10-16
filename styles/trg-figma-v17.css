@@ -1204,3 +1204,21 @@ body.trg-site .trg-editable__cms .sqs-layout.empty {
     min-height: 70vh !important;
   }
 }
+
+/* Gallery MB5C cell — force full cover (row 2, col 2) */
+body.trg-site .gallery-grid__item {
+  overflow: hidden !important;
+  border-radius: 10px !important;
+}
+body.trg-site .gallery-grid__item img {
+  object-fit: cover !important;
+  object-position: center !important;
+}
+body.trg-site .gallery-grid__item--fill img {
+  width: 100% !important;
+  height: 280px !important;
+  object-fit: cover !important;
+  object-position: center 45% !important;
+  transform: scale(1.15) !important;
+  transform-origin: center !important;
+}

@@ -1230,10 +1230,21 @@ body.trg-home .site-header.is-open .mobile-nav .site-nav a {
   width: 100%;
   height: 280px;
   object-fit: cover;
+  object-position: center;
   border-radius: 10px;
 }
 .gallery-grid__item {
   margin: 0;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.gallery-grid__item--fill img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  object-position: center 45%;
+  transform: scale(1.15);
+  transform-origin: center;
 }
 .serve-note {
   max-width: 1240px;
