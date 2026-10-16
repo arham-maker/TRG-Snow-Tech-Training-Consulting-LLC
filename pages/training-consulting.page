@@ -107,7 +107,7 @@
   <div class="split-service">
     <div class="split-service__media trg-editable trg-editable--media" data-trg-editable>
       <div class="trg-editable__fallback">
-        <img src="/assets/images/mb5c-sweeper.jpg" alt="Fleet management consulting">
+        <img src="/assets/images/mb5c-sweeper-framed.jpg" alt="Fleet management consulting">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="trainingConsultingBlock03Image" columns="12" label="EDIT: Fleet consulting image" />

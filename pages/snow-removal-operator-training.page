@@ -89,7 +89,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/mb5c-sweeper.jpg" alt="Airport operator training">
+          <img class="panel__bg" src="/assets/images/mb5c-sweeper-framed.jpg" alt="Airport operator training">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalOperatorTrainingAirportImage" columns="12" label="EDIT: Airports card image" />
