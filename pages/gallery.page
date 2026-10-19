@@ -30,8 +30,8 @@
         <figure class="gallery-grid__item">
           <img src="/assets/images/snow-blower-hangar-2.jpg" alt="Snow blower equipment in hangar">
         </figure>
-        <figure class="gallery-grid__item gallery-grid__item--fill">
-          <img src="/assets/images/mb5c-sweeper.jpg?v=2" alt="MB5C runway sweeper">
+        <figure class="gallery-grid__item">
+          <img src="/assets/images/truck_full_500x350.png" alt="Snow removal truck">
         </figure>
         <figure class="gallery-grid__item">
           <img src="/assets/images/equip-overaasen.jpg" alt="Overaasen snow removal equipment">
