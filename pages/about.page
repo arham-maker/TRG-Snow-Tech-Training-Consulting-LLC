@@ -88,7 +88,7 @@
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
         <div class="trg-editable__fallback">
-          <img class="panel__bg" src="/assets/images/plow-public-works.jpg" alt="Municipal snow removal">
+          <img class="panel__bg" src="/assets/images/hero-home.jpg" alt="Municipal snow removal">
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="aboutMuniImage" columns="12" label="EDIT: Municipalities card image" />
