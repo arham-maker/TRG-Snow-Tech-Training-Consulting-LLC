@@ -569,12 +569,31 @@ body.trg-home .site-header.is-open .mobile-nav .site-nav a {
 @media (max-width: 900px) {
   body.homepage .site-header,
   body.trg-home .site-header {
-    top: 72px;
+    top: auto;
+    padding: 8px 16px;
   }
   body.homepage .home-hero,
   body.trg-home .home-hero {
     height: auto;
-    min-height: 70vh;
+    min-height: 0;
+    overflow: visible;
+  }
+  body.homepage .home-hero__content,
+  body.trg-home .home-hero__content {
+    position: relative;
+    top: auto;
+    transform: none;
+    width: 100%;
+    max-width: 100%;
+    padding: 168px 20px 40px;
+  }
+  body.homepage .home-hero .heading-hero,
+  body.trg-home .home-hero .heading-hero {
+    font-size: 30px;
+    line-height: 38px;
+  }
+  .site-header__logo img {
+    width: 112px;
   }
 }
 /* ========== Home hero ========== */
