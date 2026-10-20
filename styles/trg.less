@@ -245,7 +245,27 @@ textarea {
 .feature-grid > .panel.panel--soft:not(.feature-card) {
   padding: 50px;
   box-sizing: border-box;
-  height: 100%;
+  min-height: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.info-grid > .panel.panel--info {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-grid > .panel.panel--info > .trg-editable,
+.info-grid > .panel.panel--info > .trg-editable > .trg-editable__fallback {
+  flex: 1 1 auto;
+  width: 100%;
+}
+
+.info-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
 }
 
 .panel {
@@ -1338,6 +1358,12 @@ body.trg-home {
   gap: 20px;
   max-width: @trg-content;
   margin: 0 auto;
+  align-items: stretch;
+}
+
+.info-grid--2,
+.info-grid:has(> .panel:nth-child(2):last-child) {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .info-card {
