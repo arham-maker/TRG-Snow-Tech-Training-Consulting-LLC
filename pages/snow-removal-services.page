@@ -109,7 +109,6 @@
           <squarespace:block-field id="snowRemovalServicesAirportImage" columns="12" label="EDIT: Airports card image" />
         </div>
       </div>
-      <div class="panel__gradient"></div>
     </article>
     <article class="panel panel--image-card">
       <div class="trg-editable trg-editable--media" data-trg-editable>
@@ -120,7 +119,6 @@
           <squarespace:block-field id="snowRemovalServicesMuniImage" columns="12" label="EDIT: Municipalities card image" />
         </div>
       </div>
-      <div class="panel__gradient"></div>
     </article>
   </div>
 </section>
