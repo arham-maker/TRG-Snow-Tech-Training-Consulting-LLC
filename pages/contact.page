@@ -24,7 +24,7 @@
           <p class="body-md">Tell us about your organization, equipment and preferred timing. We’ll discuss training options, consulting needs and scheduling criteria.</p>
           <div class="contact-band__person">
             <p><a href="tel:7175544289">(717) 554-4289</a></p>
-            <p><a href="mailto:TRGsnowtech1@gmail.com">TRGsnowtech1@gmail.com</a></p>
+            <p><a href="mailto:info@trgsnowtech.com">info@trgsnowtech.com</a></p>
           </div>
         </div>
         <div class="trg-editable__cms">
@@ -36,7 +36,7 @@
     <div class="contact-band__form-wrap" data-sqs-form-slot>
       <div class="trg-editable" data-trg-editable>
         <div class="trg-editable__fallback">
-          <form class="quote-form" action="mailto:TRGsnowtech1@gmail.com" method="post" enctype="text/plain" data-quote-form>
+          <form class="quote-form" action="mailto:info@trgsnowtech.com" method="post" enctype="text/plain" data-quote-form>
             <div class="quote-form__row">
               <label class="quote-form__field">
                 <span>Name</span>
