@@ -53,9 +53,7 @@
         <div class="trg-editable__fallback">
           <h2 id="about-serve-heading" class="heading-lg">Who We Serve</h2>
           <div class="rule" aria-hidden="true"></div>
-          <p class="body-md">At TRG Snow Tech, we help winter maintenance professionals build safer operations, improve performance, and maximize the effectiveness of their people, equipment, and resources.
-Our clients include airports, equipment technicians, fleet managers, supervisors, equipment operators, and public works departments seeking to improve safety, efficiency, and operational performance through professional training and consulting.
-When winter weather challenges your operation, we're here to help you perform at your best.
+          <p class="body-md">At TRG Snow Tech, we help winter maintenance professionals build safer operations, improve performance, and maximize the effectiveness of their people, equipment, and resources.<br><br> Our clients include airports, equipment technicians, fleet managers, supervisors, equipment operators, and public works departments seeking to improve safety, efficiency, and operational performance through professional training and consulting. <br><br> When winter weather challenges your operation, we're here to help you perform at your best.
 </p>
           <p class="link-cta link-cta--static">Serving North America • USA &amp; Canada</p>
         </div>
