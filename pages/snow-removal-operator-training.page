@@ -79,7 +79,7 @@
         <div class="trg-editable__fallback">
           <h2 id="operator-teams-heading" class="heading-lg">For Airport &amp; Municipal Teams</h2>
           <div class="rule" aria-hidden="true"></div>
-          <p class="body-md">Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.</p>
+          <p class="body-md">When winter weather threatens operations, TRG Snow Tech is ready to help. From high-speed runway sweepers and large capacity snowblowers to municipal plows and material spreaders, we deliver practical, hands-on training designed for operators, mechanics, and technicians. Our programs focus on safety, efficiency, equipment reliability, and operational readiness, helping your team perform with confidence in the most demanding snow and ice conditions.</p>
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="snowRemovalOperatorTrainingTeams" columns="12" label="EDIT: For Airport &amp; Municipal Teams" />
