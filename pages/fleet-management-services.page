@@ -160,7 +160,7 @@
       <div class="trg-editable__fallback">
         <h2 id="fleet-services-cta-heading" class="heading-lg">Discuss Your Fleet Management Needs</h2>
         <div class="rule" aria-hidden="true"></div>
-        <p class="body-md">Contact Robert Gardner with your fleet details, planning priorities and preferred timing. Confirm the consulting scope and availability as part of your inquiry.</p>
+        <p class="body-md">Contact our with your fleet details, planning priorities and preferred timing. Confirm the consulting scope and availability as part of your inquiry.</p>
         <a class="btn btn--primary" href="/contact">
           Go to Contact Form
           <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
