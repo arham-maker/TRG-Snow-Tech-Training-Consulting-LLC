@@ -56,7 +56,7 @@
       <div class="trg-editable" data-trg-editable>
         <div class="trg-editable__fallback">
           <span class="num-badge">01</span>
-          <h3 class="heading-md">Snow Removal</h3>
+          <h3 class="heading-md">Snow Removal Planning</h3>
           <div class="rule" aria-hidden="true"></div>
           <p class="body-sm">Discuss snow-removal requirements around your site, available equipment and operating priorities. Outline the areas involved and the support your organization needs.</p>
           <a class="link-cta" href="/snow-removal-services">
