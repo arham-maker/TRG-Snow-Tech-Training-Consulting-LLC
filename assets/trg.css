@@ -410,7 +410,7 @@ textarea {
 }
 .site-header {
   background: #FFFFFF;
-  padding: 0 50px 0 16px;
+  padding: 0 50px;
   position: relative;
   z-index: 100;
 }
