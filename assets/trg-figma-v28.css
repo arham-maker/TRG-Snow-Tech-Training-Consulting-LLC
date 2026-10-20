@@ -1439,17 +1439,23 @@ body.trg-site .info-grid .info-card {
   }
 
   body.trg-site .site-header {
-    padding: 6px 12px 6px 12px !important;
+    padding: 6px 12px 6px 8px !important;
   }
 
+  /* Logo left, hamburger far right (nav/CTA removed from flow) */
   body.trg-site .site-header__inner {
-    grid-template-columns: auto 1fr auto !important;
+    display: flex !important;
+    grid-template-columns: none !important;
+    align-items: center !important;
+    justify-content: space-between !important;
     gap: 12px !important;
     min-height: 56px !important;
+    width: 100% !important;
   }
 
   body.trg-site .site-header__logo {
     margin-left: 0 !important;
+    flex-shrink: 0 !important;
   }
 
   body.trg-site .site-header__logo img {
@@ -1465,8 +1471,18 @@ body.trg-site .info-grid .info-card {
     display: none !important;
   }
 
+  body.trg-site .site-header__actions {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    margin-left: auto !important;
+    flex-shrink: 0 !important;
+    gap: 0 !important;
+  }
+
   body.trg-site .site-header__toggle {
     display: flex !important;
+    margin-left: auto !important;
   }
 
   /* Header must sit BELOW top-bar, never beside it */
