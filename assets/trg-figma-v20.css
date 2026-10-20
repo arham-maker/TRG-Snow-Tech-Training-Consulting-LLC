@@ -557,8 +557,10 @@ body.trg-site .gallery-teaser__stack.trg-editable,
 body.trg-site .gallery-teaser__stack .trg-editable__fallback {
   position: relative !important;
   width: 100% !important;
-  height: 100% !important;
-  display: block !important;
+  height: auto !important;
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 16px !important;
 }
 
 body.trg-site .site-header__actions > .trg-editable,
@@ -1057,10 +1059,11 @@ body.trg-site .site-footer__bottom > .trg-editable > .trg-editable__fallback {
 body.trg-site .gallery-teaser__stack.trg-editable,
 body.trg-site .gallery-teaser__stack .trg-editable__fallback {
   position: relative !important;
-  display: block !important;
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
   width: 100% !important;
-  height: 100% !important;
-  gap: 0 !important;
+  height: auto !important;
+  gap: 16px !important;
 }
 
 /* ----- Homepage only: header + top bar overlay on hero banner ----- */
@@ -1253,25 +1256,32 @@ body.trg-site .gallery-grid__item--fill img {
   transform-origin: center !important;
 }
 
-/* Gallery teaser: equal 3-column row (no stacked big-center layout) */
-body.trg-site .gallery-teaser__stack {
+/* Gallery teaser: equal horizontal 3-column row (beats panel--soft flex column) */
+body.trg-site .gallery-teaser__inner {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr) !important;
+  gap: 40px !important;
+  align-items: center !important;
+}
+body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable,
+body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable > .trg-editable__fallback,
+body.trg-site .gallery-teaser__stack.trg-editable,
+body.trg-site .gallery-teaser__stack.trg-editable > .trg-editable__fallback {
   position: relative !important;
   width: 100% !important;
   height: auto !important;
   min-height: 0 !important;
   max-width: none !important;
-}
-body.trg-site .gallery-teaser__stack.trg-editable,
-body.trg-site .gallery-teaser__stack .trg-editable__fallback {
-  position: relative !important;
-  width: 100% !important;
-  height: auto !important;
   display: grid !important;
   grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  grid-auto-flow: column !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
   gap: 16px !important;
   align-items: stretch !important;
 }
-body.trg-site .gallery-teaser__img,
+body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable > .trg-editable__fallback > .gallery-teaser__img,
+body.trg-site .gallery-teaser__stack .gallery-teaser__img,
 body.trg-site .gallery-teaser__img--a,
 body.trg-site .gallery-teaser__img--b,
 body.trg-site .gallery-teaser__img--c {
@@ -1281,22 +1291,28 @@ body.trg-site .gallery-teaser__img--c {
   right: auto !important;
   bottom: auto !important;
   width: 100% !important;
-  height: 320px !important;
+  max-width: none !important;
+  height: 280px !important;
   object-fit: cover !important;
   border-radius: 10px !important;
   box-shadow: none !important;
   z-index: auto !important;
   transform: none !important;
+  flex: 1 1 0 !important;
 }
-@media (max-width: 900px) {
-  body.trg-site .gallery-teaser__stack.trg-editable,
-  body.trg-site .gallery-teaser__stack .trg-editable__fallback {
+@media (max-width: 700px) {
+  body.trg-site .gallery-teaser__inner {
     grid-template-columns: 1fr !important;
+  }
+  body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable > .trg-editable__fallback,
+  body.trg-site .gallery-teaser__stack.trg-editable > .trg-editable__fallback {
+    grid-template-columns: 1fr !important;
+    grid-auto-flow: row !important;
   }
   body.trg-site .gallery-teaser__img,
   body.trg-site .gallery-teaser__img--a,
   body.trg-site .gallery-teaser__img--b,
   body.trg-site .gallery-teaser__img--c {
-    height: 240px !important;
+    height: 220px !important;
   }
 }
