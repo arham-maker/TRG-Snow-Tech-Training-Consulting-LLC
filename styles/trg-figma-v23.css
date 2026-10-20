@@ -258,7 +258,7 @@ body.trg-site .home-hero__overlay {
   position: absolute !important;
   inset: 0 !important;
   z-index: 1 !important;
-  background: linear-gradient(88.14deg, rgb(22, 29, 42) 1.29%, rgba(22, 29, 42, 0.2) 106.46%) !important;
+  background: linear-gradient(88.14deg, rgb(22 29 42 / 24%) 1.29%, rgba(22, 29, 42, 0.2) 106.46%) !important;
   pointer-events: none !important;
 }
 
