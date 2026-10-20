@@ -1501,3 +1501,16 @@ body.trg-home .site-header.is-open .mobile-nav .site-nav a {
     flex-direction: column;
   }
 }
+@media (max-width: 600px) {
+  .top-bar {
+    display: none;
+  }
+  body.homepage .site-header,
+  body.trg-home .site-header {
+    top: 0;
+  }
+  body.homepage .home-hero__content,
+  body.trg-home .home-hero__content {
+    padding-top: 96px;
+  }
+}

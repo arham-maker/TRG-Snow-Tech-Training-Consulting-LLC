@@ -1555,15 +1555,6 @@ body.trg-site .info-grid .info-card {
 }
 
 @media (max-width: 640px) {
-  body.trg-site .top-bar__panel {
-    padding: 8px 10px 8px 32px !important;
-  }
-
-  body.homepage.trg-site .site-header,
-  body.trg-home.trg-site .site-header {
-    top: 52px !important;
-  }
-
   body.homepage.trg-site .home-hero__content,
   body.trg-home.trg-site .home-hero__content,
   body.trg-site .home-hero__content {
@@ -1587,5 +1578,23 @@ body.trg-site .info-grid .info-card {
   body.trg-site .site-footer {
     padding-left: 16px !important;
     padding-right: 16px !important;
+  }
+}
+
+/* Hide contact top bar on small phones */
+@media (max-width: 600px) {
+  body.trg-site .top-bar {
+    display: none !important;
+  }
+
+  body.homepage.trg-site .site-header,
+  body.trg-home.trg-site .site-header {
+    top: 0 !important;
+  }
+
+  body.homepage.trg-site .home-hero__content,
+  body.trg-home.trg-site .home-hero__content,
+  body.trg-site .home-hero__content {
+    padding-top: 96px !important;
   }
 }
