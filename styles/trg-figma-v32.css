@@ -134,7 +134,7 @@ body.trg-site .site-header__inner {
 
 body.trg-site .site-header__logo {
   justify-self: start !important;
-  margin-left: -6px !important;
+  margin-left: 0 !important;
 }
 
 body.trg-site .site-header__logo img {
