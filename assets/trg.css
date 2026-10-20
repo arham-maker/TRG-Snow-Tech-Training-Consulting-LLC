@@ -424,7 +424,7 @@ textarea {
   gap: 24px;
 }
 .site-header__logo {
-  margin-left: 0;
+  margin-left: -6px;
   flex-shrink: 0;
 }
 .site-header__logo img {
