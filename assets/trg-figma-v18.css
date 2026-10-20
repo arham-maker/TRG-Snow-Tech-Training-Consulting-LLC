@@ -415,13 +415,11 @@ body.trg-site .panel--image-card .trg-editable--media,
 body.trg-site .panel--image-card .trg-editable--media .trg-editable__fallback,
 body.trg-site .panel--image-card .trg-editable--media img {
   position: absolute !important;
-  top: 0 !important;
-  left: 0 !important;
-  right: 0 !important;
-  bottom: auto !important;
+  inset: 0 !important;
   width: 100% !important;
-  height: 58% !important;
+  height: 100% !important;
   object-fit: cover !important;
+  object-position: center !important;
   margin: 0 !important;
   display: block !important;
 }
