@@ -248,7 +248,7 @@ body.trg-site .home-hero__media .trg-editable__fallback img {
 }
 
 body.trg-site .home-hero {
-  background-image: url("/assets/images/hero-home.jpg") !important;
+  background-image: url("/assets/images/hero-banner.jpg") !important;
   background-size: cover !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
