@@ -199,8 +199,8 @@
     <div class="gallery-teaser__stack trg-editable trg-editable--media" data-trg-editable aria-hidden="true">
       <div class="trg-editable__fallback">
         <img class="gallery-teaser__img gallery-teaser__img--a" src="/assets/images/snow-blower-hangar-1.jpg" alt="">
-        <img class="gallery-teaser__img gallery-teaser__img--b" src="/assets/images/runway-broom.jpg" alt="">
         <img class="gallery-teaser__img gallery-teaser__img--c" src="/assets/images/snodozer-hia.jpg" alt="">
+        <img class="gallery-teaser__img gallery-teaser__img--b" src="/assets/images/runway-broom.jpg" alt="">
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="homeGalleryTeaserImages" columns="12" label="EDIT: Gallery teaser images" />
