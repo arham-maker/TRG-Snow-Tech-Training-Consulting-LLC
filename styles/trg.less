@@ -293,9 +293,7 @@ textarea {
 }
 
 .panel__gradient {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, rgba(255, 250, 236, 0) 25%, @trg-cream 72%);
+  display: none;
   pointer-events: none;
 }
 
@@ -813,7 +811,7 @@ body.trg-home {
   flex-direction: column;
   justify-content: flex-end;
   gap: 20px;
-  background: linear-gradient(-34.83deg, rgba(255, 160, 0, 0.1) 42%, rgba(255, 250, 236, 0.1) 77%);
+  background: @trg-cream;
 }
 
 .panel--serve-intro .trg-editable,

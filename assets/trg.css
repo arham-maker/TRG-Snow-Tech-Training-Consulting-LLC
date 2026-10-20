@@ -252,9 +252,7 @@ textarea {
   object-fit: cover;
 }
 .panel__gradient {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, rgba(255, 250, 236, 0) 25%, #FFFAEC 72%);
+  display: none;
   pointer-events: none;
 }
 .panel__body {
@@ -715,7 +713,7 @@ body.trg-home .site-header.is-open .mobile-nav .site-nav a {
   flex-direction: column;
   justify-content: flex-end;
   gap: 20px;
-  background: linear-gradient(-34.83deg, rgba(255, 160, 0, 0.1) 42%, rgba(255, 250, 236, 0.1) 77%);
+  background: #FFFAEC;
 }
 .panel--serve-intro .trg-editable,
 .panel--serve-intro .trg-editable__fallback {
