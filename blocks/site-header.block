@@ -7,9 +7,9 @@
             <img src="/assets/icons/phone.svg" alt="" width="24" height="24">
             <span>Call us at (717) 554-4289</span>
           </a>
-          <a class="top-bar__item" href="mailto:TRGsnowtech1@gmail.com">
+          <a class="top-bar__item" href="mailto:info@trgsnowtech.com">
             <img src="/assets/icons/mail.svg" alt="" width="24" height="24">
-            <span>TRGsnowtech1@gmail.com</span>
+            <span>info@trgsnowtech.com</span>
           </a>
         </div>
         <div class="trg-editable__cms">
