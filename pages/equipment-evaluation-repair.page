@@ -195,7 +195,7 @@
       <div class="trg-editable__fallback">
         <h2 id="equipment-eval-cta-heading" class="heading-lg">Discuss Your Equipment Evaluation Needs</h2>
         <div class="rule" aria-hidden="true"></div>
-        <p class="body-md">Contact Robert Gardner with your equipment details, condition questions and decision timeline. Confirm the evaluation or repair support your team needs.</p>
+        <p class="body-md">Contact our with your equipment details, condition questions and decision timeline. Confirm the evaluation or repair support your team needs.</p>
         <a class="btn btn--primary" href="/contact">
           Go to Contact Form
           <img src="/assets/icons/request-quote.svg" alt="" width="20" height="20">
