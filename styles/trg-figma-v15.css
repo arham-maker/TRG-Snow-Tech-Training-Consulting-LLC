@@ -421,7 +421,7 @@ body.trg-site .panel--image-card .panel__gradient {
   position: absolute !important;
   inset: 0 !important;
   z-index: 1 !important;
-  background: linear-gradient(180deg, rgba(255, 250, 236, 0) 25%, #fffaec 72%) !important;
+  /* background: linear-gradient(180deg, rgba(255, 250, 236, 0) 25%, #fffaec 72%) !important; */
 }
 
 body.trg-site .panel--image-card .panel__body {
