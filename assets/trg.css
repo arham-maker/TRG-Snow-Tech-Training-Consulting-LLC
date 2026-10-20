@@ -744,8 +744,13 @@ body.trg-home .site-header.is-open .mobile-nav .site-nav a {
   position: relative;
   width: 100%;
   min-height: 0;
+  display: block;
 }
-.gallery-teaser__stack.trg-editable,
+.gallery-teaser__stack.trg-editable {
+  position: relative;
+  width: 100%;
+  display: block;
+}
 .gallery-teaser__stack .trg-editable__fallback {
   position: relative;
   width: 100%;

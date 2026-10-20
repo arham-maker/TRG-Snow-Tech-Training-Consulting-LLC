@@ -553,7 +553,12 @@ body.trg-site .site-footer__legal a {
   text-underline-offset: 2px !important;
 }
 
-body.trg-site .gallery-teaser__stack.trg-editable,
+body.trg-site .gallery-teaser__stack.trg-editable {
+  position: relative !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block !important;
+}
 body.trg-site .gallery-teaser__stack .trg-editable__fallback {
   position: relative !important;
   width: 100% !important;
@@ -1056,7 +1061,12 @@ body.trg-site .site-footer__bottom > .trg-editable > .trg-editable__fallback {
   display: block !important;
 }
 
-body.trg-site .gallery-teaser__stack.trg-editable,
+body.trg-site .gallery-teaser__stack.trg-editable {
+  position: relative !important;
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+}
 body.trg-site .gallery-teaser__stack .trg-editable__fallback {
   position: relative !important;
   display: grid !important;
@@ -1256,27 +1266,37 @@ body.trg-site .gallery-grid__item--fill img {
   transform-origin: center !important;
 }
 
-/* Gallery teaser: equal horizontal 3-column row (beats panel--soft flex column) */
+/* Gallery teaser: equal horizontal 3-column row
+   IMPORTANT: only the fallback is a 3-col grid; stack itself stays block/full-width */
 body.trg-site .gallery-teaser__inner {
   display: grid !important;
-  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr) !important;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr) !important;
   gap: 40px !important;
   align-items: center !important;
 }
 body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable,
-body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable > .trg-editable__fallback,
 body.trg-site .gallery-teaser__stack.trg-editable,
-body.trg-site .gallery-teaser__stack.trg-editable > .trg-editable__fallback {
+body.trg-site .gallery-teaser__stack {
   position: relative !important;
+  display: block !important;
   width: 100% !important;
   height: auto !important;
   min-height: 0 !important;
   max-width: none !important;
+  grid-template-columns: none !important;
+}
+body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable > .trg-editable__fallback,
+body.trg-site .gallery-teaser__stack.trg-editable > .trg-editable__fallback,
+body.trg-site .gallery-teaser__stack .trg-editable__fallback {
+  position: relative !important;
   display: grid !important;
   grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
-  grid-auto-flow: column !important;
+  grid-auto-flow: row !important;
+  width: 100% !important;
+  height: auto !important;
+  min-height: 0 !important;
+  max-width: none !important;
   flex-direction: row !important;
-  flex-wrap: nowrap !important;
   gap: 16px !important;
   align-items: stretch !important;
 }
@@ -1298,16 +1318,14 @@ body.trg-site .gallery-teaser__img--c {
   box-shadow: none !important;
   z-index: auto !important;
   transform: none !important;
-  flex: 1 1 0 !important;
 }
 @media (max-width: 700px) {
   body.trg-site .gallery-teaser__inner {
     grid-template-columns: 1fr !important;
   }
   body.trg-site .panel.panel--soft.gallery-teaser__inner > .gallery-teaser__stack.trg-editable > .trg-editable__fallback,
-  body.trg-site .gallery-teaser__stack.trg-editable > .trg-editable__fallback {
+  body.trg-site .gallery-teaser__stack .trg-editable__fallback {
     grid-template-columns: 1fr !important;
-    grid-auto-flow: row !important;
   }
   body.trg-site .gallery-teaser__img,
   body.trg-site .gallery-teaser__img--a,
