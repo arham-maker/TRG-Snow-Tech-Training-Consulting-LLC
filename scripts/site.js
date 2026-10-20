@@ -62,14 +62,23 @@
     });
   }
 
+  var QUOTE_FORM_TO = "info@trgsnowtech.com";
+
   function initQuoteForms() {
     document.querySelectorAll("[data-quote-form]").forEach(function (form) {
+      form.setAttribute("action", "mailto:" + QUOTE_FORM_TO);
       form.addEventListener("submit", function (event) {
+        event.preventDefault();
         var status = form.querySelector("[data-form-status]");
         var name = form.querySelector('[name="name"]');
         var email = form.querySelector('[name="email"]');
+        var organization = form.querySelector('[name="organization"]');
+        var phone = form.querySelector('[name="phone"]');
+        var service = form.querySelector('[name="service"]');
+        var details = form.querySelector('[name="details"]');
+        var updates = form.querySelector('[name="updates"]');
+
         if (!name || !email || !String(name.value || "").trim() || !String(email.value || "").trim()) {
-          event.preventDefault();
           if (status) {
             status.hidden = false;
             status.textContent = "Please enter your name and email.";
@@ -78,12 +87,33 @@
           }
           return;
         }
+
+        var body = [
+          "Name: " + String(name.value || "").trim(),
+          "Organization: " + String((organization && organization.value) || "").trim(),
+          "Email: " + String(email.value || "").trim(),
+          "Phone: " + String((phone && phone.value) || "").trim(),
+          "Service Needed: " + String((service && service.value) || "").trim(),
+          "Details: " + String((details && details.value) || "").trim(),
+          "Email updates: " + (updates && updates.checked ? "Yes" : "No")
+        ].join("\n");
+
+        var mailto =
+          "mailto:" +
+          encodeURIComponent(QUOTE_FORM_TO) +
+          "?subject=" +
+          encodeURIComponent("TRG Snow Tech Quote Request") +
+          "&body=" +
+          encodeURIComponent(body);
+
         if (status) {
           status.hidden = false;
-          status.textContent = "Opening your email client to send this request…";
+          status.textContent = "Opening your email client to send this request to " + QUOTE_FORM_TO + "…";
           status.classList.add("is-success");
           status.classList.remove("is-error");
         }
+
+        window.location.href = mailto;
       });
     });
   }
