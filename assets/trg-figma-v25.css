@@ -118,7 +118,7 @@ body.trg-site .top-bar__item img {
 /* ----- Header: logo | centered nav | CTA ----- */
 body.trg-site .site-header {
   background: #fff !important;
-  padding: 0 50px !important;
+  padding: 0 50px 0 28px !important;
 }
 
 body.trg-site .site-header__inner {
@@ -129,6 +129,11 @@ body.trg-site .site-header__inner {
   grid-template-columns: 154px 1fr auto !important;
   align-items: center !important;
   gap: 24px !important;
+}
+
+body.trg-site .site-header__logo {
+  justify-self: start !important;
+  margin-left: -8px !important;
 }
 
 body.trg-site .site-header__logo img {

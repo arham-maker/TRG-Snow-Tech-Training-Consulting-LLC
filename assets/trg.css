@@ -410,7 +410,7 @@ textarea {
 }
 .site-header {
   background: #FFFFFF;
-  padding: 0 50px;
+  padding: 0 50px 0 28px;
   position: relative;
   z-index: 100;
 }
@@ -422,6 +422,10 @@ textarea {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
+}
+.site-header__logo {
+  margin-left: -8px;
+  flex-shrink: 0;
 }
 .site-header__logo img {
   width: 154px;
