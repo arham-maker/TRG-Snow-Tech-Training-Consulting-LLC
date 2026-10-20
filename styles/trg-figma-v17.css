@@ -1,4 +1,4 @@
-/* Figma pixel locks — beat Squarespace site.css overrides */
+/* Figma pixel locks â€” beat Squarespace site.css overrides */
 
 .trg-site,
 .trg-site body,
@@ -18,7 +18,7 @@ body.trg-site .Index {
   margin: 0 !important;
 }
 
-/* ----- Top bar (Figma Frame 162804 — black + diagonal navy panel) ----- */
+/* ----- Top bar (Figma Frame 162804 â€” black + diagonal navy panel) ----- */
 body.trg-site .top-bar {
   background: #ffffff !important;
   min-height: 59.5px !important;
@@ -427,7 +427,7 @@ body.trg-site .panel--image-card .panel__gradient {
   position: absolute !important;
   inset: 0 !important;
   z-index: 1 !important;
-  background: linear-gradient(180deg, rgba(255, 250, 236, 0) 25%, #fffaec 72%) !important;
+  /* background: linear-gradient(180deg, rgba(255, 250, 236, 0) 25%, #fffaec 72%) !important; */
 }
 
 body.trg-site .panel--image-card .panel__body {
@@ -1205,7 +1205,7 @@ body.trg-site .trg-editable__cms .sqs-layout.empty {
   }
 }
 
-/* Gallery MB5C cell � force full cover (row 2, col 2) */
+/* Gallery MB5C cell — force full cover (row 2, col 2) */
 body.trg-site .gallery-grid__item {
   overflow: hidden !important;
   border-radius: 10px !important;
