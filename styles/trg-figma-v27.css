@@ -118,12 +118,13 @@ body.trg-site .top-bar__item img {
 /* ----- Header: logo | centered nav | CTA ----- */
 body.trg-site .site-header {
   background: #fff !important;
-  padding: 0 50px 0 28px !important;
+  padding: 0 50px 0 16px !important;
 }
 
 body.trg-site .site-header__inner {
-  max-width: 1346px !important;
-  margin: 0 auto !important;
+  max-width: none !important;
+  width: 100% !important;
+  margin: 0 !important;
   min-height: 71px !important;
   display: grid !important;
   grid-template-columns: 154px 1fr auto !important;
@@ -133,7 +134,7 @@ body.trg-site .site-header__inner {
 
 body.trg-site .site-header__logo {
   justify-self: start !important;
-  margin-left: -8px !important;
+  margin-left: 0 !important;
 }
 
 body.trg-site .site-header__logo img {
@@ -1409,8 +1410,42 @@ body.trg-site .info-grid .info-card {
 
 /* ===== Mobile responsive: homepage hero + header ===== */
 @media (max-width: 900px) {
+  /* Top bar stays on its own row */
+  body.trg-site .top-bar {
+    height: auto !important;
+    min-height: 48px !important;
+  }
+
+  body.trg-site .top-bar__panel {
+    padding: 8px 12px 8px 40px !important;
+    min-height: 48px !important;
+    height: auto !important;
+  }
+
+  body.trg-site .top-bar__inner {
+    flex-wrap: wrap !important;
+    justify-content: flex-end !important;
+    gap: 8px 16px !important;
+  }
+
+  body.trg-site .top-bar__item {
+    font-size: 12px !important;
+    gap: 6px !important;
+  }
+
+  body.trg-site .top-bar__item img {
+    width: 16px !important;
+    height: 16px !important;
+  }
+
   body.trg-site .site-header {
-    padding: 8px 16px !important;
+    padding: 6px 12px 6px 12px !important;
+  }
+
+  body.trg-site .site-header__inner {
+    grid-template-columns: auto 1fr auto !important;
+    gap: 12px !important;
+    min-height: 56px !important;
   }
 
   body.trg-site .site-header__logo {
@@ -1418,29 +1453,28 @@ body.trg-site .info-grid .info-card {
   }
 
   body.trg-site .site-header__logo img {
-    width: 112px !important;
+    width: 110px !important;
     height: auto !important;
   }
 
-  body.trg-site .top-bar__item {
-    font-size: 13px !important;
-    gap: 6px !important;
+  /* Hide desktop CTA next to hamburger on mobile */
+  body.trg-site .site-header__desktop-nav,
+  body.trg-site .site-header__cta,
+  body.trg-site .site-header__actions .btn,
+  body.trg-site .site-header__actions .trg-editable {
+    display: none !important;
   }
 
-  body.trg-site .top-bar__item img {
-    width: 18px !important;
-    height: 18px !important;
+  body.trg-site .site-header__toggle {
+    display: flex !important;
   }
 
-  body.trg-site .top-bar__item span {
-    white-space: normal !important;
-  }
-
-  /* Keep overlay header, but push hero copy below logo/header */
+  /* Header must sit BELOW top-bar, never beside it */
   body.homepage.trg-site .site-header,
   body.trg-home.trg-site .site-header {
-    top: auto !important;
-    margin-top: 0 !important;
+    top: 48px !important;
+    left: 0 !important;
+    right: 0 !important;
   }
 
   body.homepage.trg-site .home-hero,
@@ -1459,14 +1493,14 @@ body.trg-site .info-grid .info-card {
     transform: none !important;
     width: 100% !important;
     max-width: 100% !important;
-    padding: 168px 20px 40px !important;
+    padding: 140px 20px 36px !important;
     box-sizing: border-box !important;
     z-index: 2 !important;
   }
 
   body.trg-site .home-hero__content .trg-editable,
   body.trg-site .home-hero__content .trg-editable__fallback {
-    gap: 20px !important;
+    gap: 18px !important;
     width: 100% !important;
   }
 
@@ -1506,23 +1540,28 @@ body.trg-site .info-grid .info-card {
 
 @media (max-width: 640px) {
   body.trg-site .top-bar__panel {
-    padding: 10px 12px 10px 36px !important;
+    padding: 8px 10px 8px 32px !important;
+  }
+
+  body.homepage.trg-site .site-header,
+  body.trg-home.trg-site .site-header {
+    top: 52px !important;
   }
 
   body.homepage.trg-site .home-hero__content,
   body.trg-home.trg-site .home-hero__content,
   body.trg-site .home-hero__content {
-    padding: 156px 16px 32px !important;
+    padding: 132px 16px 28px !important;
   }
 
   body.trg-site .home-hero .heading-hero,
   body.trg-site .home-hero h1 {
-    font-size: 28px !important;
-    line-height: 34px !important;
+    font-size: 26px !important;
+    line-height: 32px !important;
   }
 
   body.trg-site .site-header__logo img {
-    width: 100px !important;
+    width: 96px !important;
   }
 
   body.trg-site .section--pad,
