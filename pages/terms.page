@@ -73,14 +73,12 @@
           <h3 class="heading-sm">9. Contact</h3>
           <p class="body-md">Questions about these Terms can be directed to:</p>
           <ul class="check-list">
-            <li>Robert Gardner</li>
             <li>TRG Snow Tech Training &amp; Consulting LLC</li>
             <li>Email: info@trgsnowtech.com</li>
             <li>Phone: (717) 554-4289</li>
           </ul>
         </article>
 
-        <p class="body-sm legal-doc__disclaimer">Demo content only. This page is a design placeholder and is not legal advice.</p>
       </div>
       <div class="trg-editable__cms">
         <squarespace:block-field id="termsContent" columns="12" label="EDIT: Terms of Use body" />
