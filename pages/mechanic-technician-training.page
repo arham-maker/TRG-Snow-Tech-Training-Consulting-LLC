@@ -98,7 +98,19 @@
         <div class="trg-editable__fallback">
           <h2 id="mechanic-orgs-heading" class="heading-lg">Equipment &amp; Organizations</h2>
           <div class="rule" aria-hidden="true"></div>
-          <p class="body-md">Lorem ipsum dolor sit amet consectetur. Dictum lobortis natoque dictumst id laoreet.</p>
+          <p class="body-md">TRG Snow Tech can custom build training programs on:</p>
+          <ul class="body-md check-list">
+            <li>Airport snow brooms and snowblowers, plows, and combination/integrated snow removal equipment.</li>
+            <li>Pavement anti-ice spraying vehicles</li>
+            <li>Municipal plowing and traction improving equipment</li>
+          </ul>
+          <p class="body-md">We offer training to government agencies such as:</p>
+          <ul class="body-md check-list">
+            <li>Airport authorities</li>
+            <li>Municipal public works agencies</li>
+            <li>Port authorities</li>
+            <li>Universities and colleges</li>
+          </ul>
         </div>
         <div class="trg-editable__cms">
           <squarespace:block-field id="mechanicTechnicianTrainingOrgs" columns="12" label="EDIT: Equipment &amp; Organizations" />
