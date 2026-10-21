@@ -113,7 +113,7 @@
           </ul>
         </div>
         <div class="trg-editable__cms">
-          <squarespace:block-field id="mechanicTechnicianTrainingOrgs" columns="12" label="EDIT: Equipment &amp; Organizations" />
+          <squarespace:block-field id="mechanicTechnicianTrainingOrgsV2" columns="12" label="EDIT: Equipment &amp; Organizations" />
         </div>
       </div>
     </div>
