@@ -48,8 +48,8 @@
       <nav class="site-footer__legal" aria-label="Legal">
         <div class="trg-editable" data-trg-editable>
          <div class="trg-editable__fallback">
-    <a href="#"><img src="/assets/icons/facebook.svg" width="40" height="40" alt="Facebook"></a>
-    <a href="#"><img src="/assets/icons/insta.svg" width="40" height="40" alt="Instagram"></a>
+    <a href="#"><img src="/assets/icons/facebook.svg" width="20" height="20" alt="Facebook"></a>
+    <a href="#"><img src="/assets/icons/insta.svg" width="20" height="20" alt="Instagram"></a>
 </div>
           <div class="trg-editable__fallback">
             <a href="/privacy">Privacy</a>
